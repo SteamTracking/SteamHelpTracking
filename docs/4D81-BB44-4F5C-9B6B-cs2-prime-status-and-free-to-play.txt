@@ -17,6 +17,7 @@
 
 [h2]What is included with the free version of Counter-Strike 2?[/h2]
 Free Counter-Strike 2 players receive access to all game modes and matchmaking types with the exception of Premier Mode, which requires Prime Status to participate in.
+
 [/section]
 
 [section id=primebenefits]
@@ -24,7 +25,9 @@ Free Counter-Strike 2 players receive access to all game modes and matchmaking t
 [h2]What are the benefits of Prime Status?[/h2]
 Users with Prime Status are matchmade with and against only other Prime Status users in all game modes.
 
-Prime users also earn XP, Competitive Skill Groups and Counter-Strike Rating, and are eligible for weekly care packages. These benefits apply exclusively to Prime users.
+Players with Prime Status earn XP, receive Competitive Skill Groups and Counter-Strike Ratings, are eligible for weekly care packages, and have access to Premier mode.
+
+In order to have access to Premier mode in Counter-Strike 2, players [i]must[/i] own Prime Status and be Profile Level 10.
 [/section]
 
 [section id=getprime]
