@@ -242,6 +242,8 @@ In Steam Mobile App, go to the Steam Guard page, tap the gear icon, then tap "Re
 
 If you are unable to receive SMS messages from Steam, check with your wireless provider that your wireless account is allowed to receive them. Our text messages can come from a 6 digit phone number, please ensure that your provider supports this. Steam will also stop sending SMS messages if too many have been sent to you, so waiting a few minutes to an hour may allow messages to come through again. You should also check to make sure that your phone's inbox is not full.
 
+Telegram is sometimes used as an alternate delivery mechanism in countries where it has high adoption if the phone number has an active Telegram account.
+
 [h4][url id=phonenotworking][/url] Why isn't my phone number working?[/h4]
 
 First, make sure you are entering your phone in international format (with '+' and your country code first).
