@@ -9,6 +9,8 @@ Regulation (EU) 2021/784 of the European Parliament and the Council of 29 April 
 
 [*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/2024_tco_transparency_report.pdf]2024 Valve Transparency Report - EU Terrorist Content Online Regulation[/url]
 
+[*][url=https://cdn.steamstatic.com/apps/valve/reports/2025_tco_transparency_report.pdf]2025 Valve Transparency Report - EU Terrorist Content Online Regulation[/url]
+
 [/list]
 
 [h1]Accessibility Conformance Reports[/h1]
