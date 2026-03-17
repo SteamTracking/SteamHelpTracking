@@ -183,7 +183,7 @@ Currently we are restricting Steam Wallet balances to $2000. In other currencies
 [url id=prices][/url]
 
 [h3]Are there minimum or maximum sales prices for items in the Community Market?[/h3]
-Currently there is no minimum sales price, although we may decide to impose a minimum price in the future. Currently, the maximum price for any particular item is $1800.
+Some currencies may have a minimum sale price. Steam will indicate if your listing does not meet the minimum price. Currently, the maximum price for any particular item is approximately equivalent to $1800 USD in your listing currency.
 
 [url id=steamguard][/url]
 

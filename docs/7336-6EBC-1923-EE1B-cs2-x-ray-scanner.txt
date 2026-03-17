@@ -7,7 +7,7 @@
 [*][url=#scananother]I have scanned a container and the item has been revealed. How do I scan another container?[/url] [/*]
 [*][url=#resetcontainer]Can I reset a container’s contents or scan the same container more than once?[/url] [/*]
 [*][url=#diffcontainers]Can I scan multiple containers if they are different types?[/url] [/*]
-[*][url=#scansouv]Can I scan Souvenir Packages?[/url] [/*]
+[*][url=#scansouv]How do I open keyless containers?[/url] [/*]
 
 [/list]
 
@@ -43,6 +43,6 @@ No. Only one container of any kind (Weapon Case, Sticker Capsule, Souvenir Packa
 
 [section id=scansouv]
 
-[h2]Can I scan Souvenir Packages?[/h2]
-Yes. Souvenir Packages are containers, and like other containers they are consumed when scanned and can only be scanned once. After being scanned, Souvenir Packages cannot be traded or sold on the Community Market and the revealed the item must be claimed before another container can be scanned.
+[h2]How do I open keyless containers?[/h2]
+Keyless containers like Souvenir Packages can be opened on their own and do not require the X-Ray Scanner.
 [/section]
