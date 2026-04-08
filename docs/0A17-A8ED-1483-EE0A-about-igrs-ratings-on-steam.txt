@@ -1,0 +1,7 @@
+[h1]About IGRS ratings on Steam[/h1]
+
+Valve has been in communication for over two years with the Ministry of Communication and Digital Affairs (Komdigi), the agency overseeing the Indonesia Game Rating System (IGRS), as we as we try to build toward a system for displaying age-ratings for Steam customers in Indonesia. The system we are building aims to use developer-provided information about their game to generate age-ratings based on the IGRS regulations. These ratings are intended to give customers information about the content and intended minimum age group of each game.
+
+A technical bug and miscommunication resulted in incorrect and incomplete ratings being temporarily displayed on Steam between April 2 and April 5. We’ve taken those down to minimize any potential confusion.  There remain a number of steps before we're ready to fully generate and display IGRS approved age-ratings to customers in Indonesia.
+
+We apologize for the confusion this error may have caused.
