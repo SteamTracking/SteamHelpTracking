@@ -887,6 +887,12 @@
         "version": 3,
         "timestamp": "2021-07-10 19:49:55"
     },
+    "3740343803020987643": {
+        "title": "Steam Controller - Feature & Troubleshooting guide",
+        "url_code": "33E8-5EDF-24E6-4CFB",
+        "version": 1,
+        "timestamp": "2026-05-04 17:20:50"
+    },
     "3774805164909483879": {
         "title": "Understanding the In-Game Overlay Performance Monitor",
         "url_code": "3462-CD4C-36BD-5767",
@@ -2056,6 +2062,12 @@
         "url_code": "6A99-D482-3FDE-994C",
         "version": 4,
         "timestamp": "2021-08-05 19:51:00"
+    },
+    "7690242099698286515": {
+        "title": "Reference - Steam Controller LED",
+        "url_code": "6AB9-3A71-ED45-3FB3",
+        "version": 1,
+        "timestamp": "2026-05-04 17:27:44"
     },
     "7698765082706437407": {
         "title": "Clear download cache",

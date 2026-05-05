@@ -1,0 +1,280 @@
+[h1]Steam Controller - Feature & Troubleshooting guide[/h1]
+
+[h3]First steps[/h3]
+Before attempting in-depth troubleshooting or contacting Steam Support, be sure to do the following:
+
+[list]
+
+[*]Install any updates available for Steam, your operating system, or firmware for the Steam Controller or Puck. Available Steam Controller and Puck updates are shown in Settings > Controller, and Steam will also prompt you separately in most cases. If using SteamOS, updates will be shown in Settings > System > Hardware Updates.
+
+[*]Restart the devices you're having trouble with to see whether this resolves the issue you're experiencing.
+
+[*]Refer to any information in this article that may be relevant to your problem.
+
+[*]Still need help? You can contact Steam Support using the link at the bottom of this page.
+
+[/list]
+
+[hr][/hr]
+
+[h1]Contents[/h1]
+
+[list]
+
+[*][url=#pairing]Pairing and Connectivity[/url]
+
+[*][url=#led]Steam Controller LED Patterns[/url]
+
+[*][url=#non]Using Steam Controller with Non-Steam Games[/url]
+
+[*][url=#mac]Using Steam Controller with Mac[/url]
+
+[*][url=#care]Care and Maintenance[/url]
+
+[*][url=#contact]Contact Steam Support[/url]
+
+[/list]
+
+[hr][/hr]
+
+[h1]Pairing and Connectivity[/h1]
+There are a three different ways to use your Steam Controller with your PC or Steam Machine. Refer below for information about each mode and how to switch between them.
+
+[list]
+
+[*]Steam Controller Puck (Valve wireless) - White LED
+By default, the Steam Controller uses an included wireless receiver we call a 'Puck'. For the fastest and most reliable connection, we generally recommend using this mode.
+
+[list]
+
+[*]Proprietary 2.4Ghz wireless connection.
+
+[*]The Steam Controller has two virtual 'slots' - right and left - that can remember connections for two separate Pucks.
+
+[/list]
+
+[*]Bluetooth (wireless) - Blue LED
+
+[list]
+
+[*]Standard 2.4GHz wireless.
+
+[/list]
+
+[*]Wired (via USB-C) - Green LED
+
+[list]
+
+[*]A direct wired connection between the Controller and the device. This can be used at any time.
+
+[/list]
+
+[/list]
+
+Information about current pairings and active connections can be viewed from Settings > Controller > Device Details.
+
+[h4]Switching between connectivity modes[/h4]
+
+The Steam Controller uses the right Puck 'slot' by default. Pairing to another device will overwrite the default pairing. To maintain two pairings simultaneously, one in each slot, make sure you switch wireless modes to the left slot before completing a second pairing. Once two pairings are complete, you can switch between them at any time.
+
+The Steam Controller can also maintain a Bluetooth pairing independently of its Puck pairings.
+
+When powered on, the Controller will connect by default to the last paired connection used. To power off the Controller, hold down the Steam button for ~5 seconds until you hear the chime and the LED turns off.
+
+To switch from one wireless connection mode to another, start with the Controller turned off and then power it on using one of the following methods:
+
+[list]
+
+[*]To use Puck wireless mode (right slot), press and hold A + R1 + Steam until you hear a chime and the LED turns white.
+
+[*]To use Puck wireless mode (left slot), press and hold A + L1 + Steam until you hear a chime and the LED turns white.
+
+[*]To use Bluetooth mode, press and hold B + R1 + Steam until you hear a chime and the LED turns blue.
+
+[/list]
+
+To use the wired USB-C mode:
+
+[list]
+
+[*]If the controller is powered off, plug it directly into your PC. You will hear a chime and the LED will turn green.
+
+[*]If the Controller is on and in another mode, hold down the Steam button while plugging it in instead. You'll hear a chime and the LED will turn green.
+
+[/list]
+
+[h4]Pairing to a Puck or Steam Machine[/h4]
+
+The Steam Controller should be paired to the Puck it is packaged with by default and work automatically with the associated wireless connection as long as the Puck is plugged into a compatible device running Steam.
+
+To manually pair your Steam Controller to a Puck, simply plug the Puck into your PC via USB-C, making sure Steam is open and no games are running, and then place the Steam Controller on the Puck. You should see a Steam prompt to complete the pairing.
+
+[h4]Puck connectivity issues[/h4]
+
+Your controller may experience connectivity issues if the signal to the puck is weak. Normally, good line of sight between the controller and the puck is all that's needed for a a stable, reliable connection.
+
+You can view a visual representation of signal strength between your controller and puck by going to Steam settings -> Controller -> Click "Details" next to your connected Steam Controller Puck -> Scroll down to the Hardware section to find the Signal Strength indicator. Note this indicator updates in real-time so you can see the impact of any adjustments to your environment you make.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/778b0e899d0190eb571fbdaea9a88943cc373c8e.png[/img]
+
+If your controller is experiencing connection reliability issues (reduced range, disconnections, or input latency) while connected to the puck, try the following to improve signal strength.
+
+[list]
+
+[*]Ensure unobstructed line of sight between your controller and the puck.
+
+[*]Experiment with moving devices away from the puck that could be causing signal interference (Wi-Fi access points, SuperSpeed USB like storage drives, network adapters, and capture cards)
+
+[*]Make sure the puck isn't obstructed by signal blocking materials (e.g., metal, or carbon fiber materials)
+
+[/list]
+
+[h4]Pairing with Bluetooth[/h4]
+
+First, make sure your Controller is powered off, then press and hold B + R1 + Steam for about 4 seconds until the Controller chimes. The LED will rapidly blink blue to indicate it is ready to pair.
+
+Navigate to your device's Bluetooth settings and find the Steam Controller. It will identify itself as 'Steam Ctrl (BT) FXA...
+
+Once pairing is complete, the LED should show solid blue.
+
+[h4]Using a wired USB-C connection[/h4]
+
+With the Controller powered off, plug it directly into your PC with the USB-C cable. The Controller will turn on in USB-C mode.
+
+[section id=led]The LED should show solid green when using a wired connection.
+[/section]
+
+[h1]Steam Controller LED Patterns[/h1]
+The LED above the Steam button communicates information about the current state of the Steam Controller. For a comprehensive visual reference, visit our [url=https://steamcommunity.com/faqs/view/6AB9-3A71-ED45-3FB3]Steam Controller LED[/url] article.
+
+[table]
+
+[section id=non]
+[/section]
+
+[tr]
+
+[td][b]White[/b][/td]
+[td][b]Green[/b][/td]
+[td][b]Blue[/b][/td]
+[td][b]Orange[/b][/td]
+[td][b]Red[/b][/td]
+[td][b]Dim Red[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td]Puck connection[/td]
+[td]USB connection[/td]
+[td]Bluetooth connection[/td]
+[td]No connection (charging only)[/td]
+[td]Software update mode (leave connected to USB)[/td]
+[td]Low battery (~1 hour play time)[/td]
+
+[/tr]
+
+[/table]
+
+[table]
+
+[tr]
+
+[td][b]Solid[/b][/td]
+[td][b]Blinking[/b][/td]
+[td][b]Breathing[/b][/td]
+[td][b]Quick Blink[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td]The device is connected and working normally.[/td]
+[td]The device is trying to connect to the respective device.[/td]
+[td]The device is connected and charging.[/td]
+[td]
+
+[section id=non]The device is advertising for pairing.
+[/section]
+
+[/td]
+
+[/tr]
+
+[/table]
+
+[h1]Using Steam Controller with Non-Steam Games[/h1]
+Steam must be running on your PC for the Steam Controller to function properly. Everything should work as intended if you have purchased and launched your game directly through Steam, but in many cases you will also be able to use the Controller with non-Steam games that run independently.
+
+While the Controller may be usable with non-Steam games, functionality may be limited and some additional manual setup may be required.
+
+Some non-Steam games may simply be incompatible with the Steam Controller. Here are some known incompatibilities:
+
+[list]
+
+[*]Games using anti-cheat solutions that block emulated input.
+
+[*]Games that have independent launchers that need to be launched as administrator.
+
+[*]Games that don't support the Steam Overlay.
+
+[*]Games that can't be added to the Steam Library.
+
+[/list]
+
+If you're having trouble using your Steam Controller with a non-Steam game, you can try some of the following suggestions.
+
+[h4]Launching a non-Steam game through Steam[/h4]
+
+This option mimics the default behavior for games in your Steam Library.
+
+In the PC Steam client, you can navigate to Games > Add a Non-Steam Game to My Library... and then use the popup browser to find the .exe file for the game or app you wish to add. You can also access this option by navigating to Steam > Settings > Library > Add a Non-Steam Game.
+
+[section id=mac]Once the game is in your Library, you can launch it and customize controller configurations in the same manner as Steam games. Note that the functionality available using this method can vary greatly depending on the individual game.
+[/section]
+
+[h1]Using Steam Controller with Mac[/h1]
+
+[section id=care]
+[/section]
+
+Pairing a Steam Controller with a macOS device follows the same process as pairing with a PC. If your Mac does not have a USB-A port, you will need a USB-C to USB-C cable for the puck or controller. You will need to click "Allow" if macOS prompts about a new device when you plug in the puck or controller for the first time.
+
+If you've paired your Steam Controller, but it is unresponsive, check that you've permitted input monitoring for the Steam application in System Settings -> Privacy & Security -> Input Monitoring control panel.
+
+If you've paired your Steam Controller but the trackpad does not move the mouse cursor on the desktop, ensure a) that Steam is running and b) that you've enabled Steam under System Settings -> Privacy & Security -> Accessibility.
+
+[h1]Care and Maintenance[/h1]
+Here are some tips for taking proper care of the Steam Controller.
+
+[h4]Transport and long-term storage[/h4]
+
+When transporting the Steam Controller or storing it for longer periods, you can place it in safe mode so that it won't power on or accept inputs. This can prevent it from turning on unintentionally in your backpack or luggage.
+
+To place the controller in safe mode, make sure it is powered on, then press and hold the following inputs until the controller turns off:
+R4 + R5 + L4 + L5 + Steam
+
+In this mode, the device will not turn on when Steam is pressed and will instead the LED will blink white twice. To leave this mode, hold the same button chord until the device wakes up, or plug it into a PC directly via USB-C.
+
+[h4]Cleaning[/h4]
+
+The exterior case materials can be cleaned using a microfiber cloth. You can use a very small amount of isopropyl alcohol with a dry cloth if necessary.
+
+Do not use alcohol or other cleaning products around open areas such as case seams, joystick wells, or buttons.
+
+[h4]Disassembly, modification, and repair[/h4]
+
+We don't recommend opening or otherwise modifying your device - any damage that results won't be covered under your product warranty.
+
+If you do decide to open your device despite this risk, the rear cover screws requires a T6 size Torx driver. You may need to use an extended bit to reach the screw seatings.
+
+Valve is not responsible for replacing or servicing screws, connectors, or other components damaged while attempting to open, modify, or repair your Steam Controller.
+
+If you have a problem with your controller that you believe may require direct service, please start by contacting Steam Support.
+
+[hr][/hr]
+
+[section id=contact][h1]Contact Steam Support[/h1]
+[/section]
+
+Unable to resolve your issue using the information available here? [url=https://help.steampowered.com/en/wizard/HelpWithGame/?appid=4165870]Open a ticket with Steam Support[/url].

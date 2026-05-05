@@ -1,0 +1,216 @@
+[h1]Reference - Steam Controller LED[/h1]
+
+The Steam Controller features an LED which will communicate various states the controller is in. The table below can serve as a helpful reference.
+
+[h2]Puck Connection[/h2]
+
+[hr][/hr]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED[/b][/td]
+[td][b]Meaning[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/5f1a7b565fd4ff6c9cf7547dafeb4ed8b82d7d01.png[/img][/td]
+[td]White, solid: connection is working normally.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/c6f5d15c68cf155ce6beecb6588408224ce3cf67.gif[/img][/td]
+[td]White, blinking slowly: controller has lost connection.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/dc6f847e338f7ed3cc626074812b194248a5c896.gif[/img][/td]
+[td]White, breathing: controller is charging.[/td]
+
+[/tr]
+
+[/table]
+
+[h2]Bluetooth Connection[/h2]
+
+[hr][/hr]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED[/b][/td]
+[td][b]Meaning[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/21c3a419b3e88a20c61e4b1bb07cae550d6b7f16.png[/img][/td]
+[td]Blue, solid: connection is working normally.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/c3afdfad74fe1ab04f9890d3828b146ce74c555c.gif[/img][/td]
+[td]Blue, blinking slowly: lost connection.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/eea3b221bd697d164814ac5831ee217657b64793.gif[/img][/td]
+[td]Blue, breathing: controller is charging.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/286a80c3c458d1b6297b34216bcdd51597dada17.gif[/img][/td]
+[td]Blue, double-pulse: the controller is in Bluetooth pairing mode.[/td]
+
+[/tr]
+
+[/table]
+
+[h2]USB Connection[/h2]
+
+[hr][/hr]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED[/b][/td]
+[td][b]Meaning[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/ea2ebda77656268ea850a6ed2c1cf52825fae29a.png[/img][/td]
+[td]Green, solid: connection is working normally.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/e059a62880a40f94f77a856b0fc5ceef08fde9ba.gif[/img][/td]
+[td] Green, blinking slowly: I have an update queued and I am searching for USB.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/fc1456e01c0ce52d9617d5599b52f007c44478de.gif[/img][/td]
+[td]Green, breathing: controller is charging.[/td]
+
+[/tr]
+
+[/table]
+
+[h2]Low Battery[/h2]
+
+[hr][/hr]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED[/b][/td]
+[td][b]Meaning[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/0ccc11a8ed004d5b214da4b1a29c86845f7c104c.png[/img][/td]
+[td]Dark red, solid: The dark red means you have less than 1 hour of battery left. You have time to wrap up your game. You can play while charging.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/36a2484d0e9daf4cf27a12387ca2d1ed90c69210.gif[/img][/td]
+[td]Dark red, double-pulse: The double pulse will show up if you try to turn it on and the battery is too low to power on.[/td]
+
+[/tr]
+
+[/table]
+
+[h2]Firmware Update States[/h2]
+
+[hr][/hr]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED[/b][/td]
+[td][b]Meaning[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/5c9e35aba9a8a4bb91b936a20a44f861f20aa181.png[/img][/td]
+[td]Red, solid: The controller is waiting for an update.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/dd9004e96b96b08ee2f1ca7f57458db867be7659.gif[/img][/td]
+[td]Red, blinking: The controller is waiting for a direct USB connection to complete the firmware update.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/ad86bbb06615e1386be16977d6a311d3bf57264f.gif[/img][/td]
+[td]Red, ramping: The controller is updating firmware.[/td]
+
+[/tr]
+
+[/table]
+
+[h2]Misc States[/h2]
+
+[hr][/hr]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED[/b][/td]
+[td][b]Meaning[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/5bf147df8057e35e6d92127cad507e45caf6fcb3.gif[/img][/td]
+[td]Orange, breathing: Not connected but charging. This can happen over USB or puck. It tells you the controller isn't sending surface inputs and the battery isn't full. It will turn off when done.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/9433fe88497124d008b479582a12ba3a25f4a7d3.gif[/img][/td]
+[td]One time white, double-pulse after pressing the Steam button: The controller is in backpack mode.
+
+To place the controller in backpack mode, make sure it is powered on, then press and hold the following inputs until the controller turns off:
+R4 + R5 + L4 + L5 + Steam. This makes it so your controller won't accidentally turn on during travel (eg, in a backpack or luggage). Exit backpack mode by using the same key chord or plugging the controller in via USB.[/td]
+
+[/tr]
+
+[/table]
