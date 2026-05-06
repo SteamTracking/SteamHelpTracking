@@ -1,6 +1,8 @@
-[h1]Steam Controller BLE[/h1]
+[h1]Steam Controller (2015) BLE[/h1]
 
 [img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]
+
+[h3]This is a support article for the discontinued 2015 Steam Controller. For help with the new 2026 Steam Controller, click [url=https://help.steampowered.com/en/wizard/HelpWithGame/?appid=4165870]here[/url].[/h3]
 
 [h1]Bluetooth Low Energy Firmware FAQ[/h1]You can now add Bluetooth Low Energy (BLE) functionality to your Steam Controller. This feature is required to enjoy the [url=https://store.steampowered.com/steamlink/about]Steam Link app[/url], but may provide benefit in other use cases as well. This FAQ describes what this BLE connection can and cannot do compared to the original wireless solution, steps to update your controller to add BLE support, and how to switch between wireless modes once the update is installed.
 

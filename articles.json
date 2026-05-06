@@ -408,10 +408,10 @@
         "timestamp": "2024-10-23 18:35:44"
     },
     "1699651202795685983": {
-        "title": "Steam Controller BLE",
+        "title": "Steam Controller (2015) BLE",
         "url_code": "1796-5FC3-88B3-C85F",
-        "version": 6,
-        "timestamp": "2024-11-19 15:40:11"
+        "version": 7,
+        "timestamp": "2026-05-05 22:17:11"
     },
     "1718946021060084326": {
         "title": "SteamVR + Oculus Rift",
@@ -890,8 +890,8 @@
     "3740343803020987643": {
         "title": "Steam Controller - Feature & Troubleshooting guide",
         "url_code": "33E8-5EDF-24E6-4CFB",
-        "version": 1,
-        "timestamp": "2026-05-04 17:20:50"
+        "version": 4,
+        "timestamp": "2026-05-05 22:27:57"
     },
     "3774805164909483879": {
         "title": "Understanding the In-Game Overlay Performance Monitor",

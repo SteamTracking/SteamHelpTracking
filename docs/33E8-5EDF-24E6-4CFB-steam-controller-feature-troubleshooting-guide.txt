@@ -277,4 +277,4 @@ If you have a problem with your controller that you believe may require direct s
 [section id=contact][h1]Contact Steam Support[/h1]
 [/section]
 
-Unable to resolve your issue using the information available here? [url=https://help.steampowered.com/en/wizard/HelpWithGame/?appid=4165870]Open a ticket with Steam Support[/url].
+Unable to resolve your issue using the information available here? [url=https://help.steampowered.com/en/wizard/HelpWithSteamController]Open a ticket with Steam Support using the button on this page[/url].
