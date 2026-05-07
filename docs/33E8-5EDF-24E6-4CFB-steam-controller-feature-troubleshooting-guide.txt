@@ -38,7 +38,7 @@ Before attempting in-depth troubleshooting or contacting Steam Support, be sure 
 [hr][/hr]
 
 [h1]Pairing and Connectivity[/h1]
-There are a three different ways to use your Steam Controller with your PC or Steam Machine. Refer below for information about each mode and how to switch between them.
+There are three different ways to use your Steam Controller with your PC or Steam Machine. Refer below for information about each mode and how to switch between them.
 
 [list]
 
@@ -71,7 +71,7 @@ By default, the Steam Controller uses an included wireless receiver we call a 'P
 
 [/list]
 
-Information about current pairings and active connections can be viewed from Settings > Controller > Device Details.
+Information about current pairings and active connections can be viewed from Settings > Controller > Details.
 
 [h4]Switching between connectivity modes[/h4]
 
@@ -111,7 +111,7 @@ To manually pair your Steam Controller to a Puck, simply plug the Puck into your
 
 [h4]Puck connectivity issues[/h4]
 
-Your controller may experience connectivity issues if the signal to the puck is weak. Normally, good line of sight between the controller and the puck is all that's needed for a a stable, reliable connection.
+Your controller may experience connectivity issues if the signal to the puck is weak. Normally, good line of sight between the controller and the puck is all that's needed for a stable, reliable connection.
 
 You can view a visual representation of signal strength between your controller and puck by going to Steam settings -> Controller -> Click "Details" next to your connected Steam Controller Puck -> Scroll down to the Hardware section to find the Signal Strength indicator. Note this indicator updates in real-time so you can see the impact of any adjustments to your environment you make.
 
@@ -133,7 +133,7 @@ If your controller is experiencing connection reliability issues (reduced range,
 
 First, make sure your Controller is powered off, then press and hold B + R1 + Steam for about 4 seconds until the Controller chimes. The LED will rapidly blink blue to indicate it is ready to pair.
 
-Navigate to your device's Bluetooth settings and find the Steam Controller. It will identify itself as 'Steam Ctrl (BT) FXA...
+Navigate to your device's Bluetooth settings and find the Steam Controller. It will identify itself as 'Steam Ctrl (BT) FXA...'
 
 Once pairing is complete, the LED should show solid blue.
 
@@ -148,9 +148,6 @@ With the Controller powered off, plug it directly into your PC with the USB-C ca
 The LED above the Steam button communicates information about the current state of the Steam Controller. For a comprehensive visual reference, visit our [url=https://steamcommunity.com/faqs/view/6AB9-3A71-ED45-3FB3]Steam Controller LED[/url] article.
 
 [table]
-
-[section id=non]
-[/section]
 
 [tr]
 
@@ -183,7 +180,7 @@ The LED above the Steam button communicates information about the current state 
 [td][b]Solid[/b][/td]
 [td][b]Blinking[/b][/td]
 [td][b]Breathing[/b][/td]
-[td][b]Quick Blink[/b][/td]
+[td][b]Double Pulse[/b][/td]
 
 [/tr]
 
@@ -234,24 +231,23 @@ In the PC Steam client, you can navigate to Games > Add a Non-Steam Game to My L
 [/section]
 
 [h1]Using Steam Controller with Mac[/h1]
+Pairing a Steam Controller with a macOS device follows the same process as pairing with a PC. If your Mac does not have a USB-A port, you will need a USB-C to USB-C cable for the puck or controller. You will need to click "Allow" if macOS prompts about a new device when you plug in the puck or controller for the first time.
+
+If you've paired your Steam Controller, but it is unresponsive, check that you've permitted input monitoring for the Steam application in the following Apple menu: System Settings -> Privacy & Security -> Input Monitoring control panel.
+
+If you've paired your Steam Controller but the trackpad does not move the mouse cursor on the desktop, ensure a) that Steam is running and b) that you've enabled Steam in the following Apple menu: System Settings -> Privacy & Security -> Accessibility.
 
 [section id=care]
 [/section]
-
-Pairing a Steam Controller with a macOS device follows the same process as pairing with a PC. If your Mac does not have a USB-A port, you will need a USB-C to USB-C cable for the puck or controller. You will need to click "Allow" if macOS prompts about a new device when you plug in the puck or controller for the first time.
-
-If you've paired your Steam Controller, but it is unresponsive, check that you've permitted input monitoring for the Steam application in System Settings -> Privacy & Security -> Input Monitoring control panel.
-
-If you've paired your Steam Controller but the trackpad does not move the mouse cursor on the desktop, ensure a) that Steam is running and b) that you've enabled Steam under System Settings -> Privacy & Security -> Accessibility.
 
 [h1]Care and Maintenance[/h1]
 Here are some tips for taking proper care of the Steam Controller.
 
 [h4]Transport and long-term storage[/h4]
 
-When transporting the Steam Controller or storing it for longer periods, you can place it in safe mode so that it won't power on or accept inputs. This can prevent it from turning on unintentionally in your backpack or luggage.
+When transporting the Steam Controller or storing it for longer periods, you can place it in backpack mode so that it won't power on or accept inputs. This can prevent it from turning on unintentionally in your backpack or luggage.
 
-To place the controller in safe mode, make sure it is powered on, then press and hold the following inputs until the controller turns off:
+To place the controller in backpack mode, make sure it is powered on, then press and hold the following inputs until the controller turns off:
 R4 + R5 + L4 + L5 + Steam
 
 In this mode, the device will not turn on when Steam is pressed and will instead the LED will blink white twice. To leave this mode, hold the same button chord until the device wakes up, or plug it into a PC directly via USB-C.
