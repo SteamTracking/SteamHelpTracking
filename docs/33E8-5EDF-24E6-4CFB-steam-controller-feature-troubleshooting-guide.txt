@@ -131,7 +131,7 @@ If your controller is experiencing connection reliability issues (reduced range,
 
 [h4]Pairing with Bluetooth[/h4]
 
-First, make sure your Controller is powered off, then press and hold B + R1 + Steam for about 4 seconds until the Controller chimes. The LED will rapidly blink blue to indicate it is ready to pair.
+First, make sure your Controller is powered off, then press and hold B + R1 + Steam for about 4 seconds until the Controller chimes. The LED will rapidly blink with double blue pulses to indicate it is ready to pair.
 
 Navigate to your device's Bluetooth settings and find the Steam Controller. It will identify itself as 'Steam Ctrl (BT) FXA...'
 
@@ -219,7 +219,7 @@ Some non-Steam games may simply be incompatible with the Steam Controller. Here 
 
 [/list]
 
-If you're having trouble using your Steam Controller with a non-Steam game, you can try some of the following suggestions.
+If you're having trouble using your Steam Controller with a non-Steam game, you can try the following:
 
 [h4]Launching a non-Steam game through Steam[/h4]
 
@@ -250,7 +250,7 @@ When transporting the Steam Controller or storing it for longer periods, you can
 To place the controller in backpack mode, make sure it is powered on, then press and hold the following inputs until the controller turns off:
 R4 + R5 + L4 + L5 + Steam
 
-In this mode, the device will not turn on when Steam is pressed and will instead the LED will blink white twice. To leave this mode, hold the same button chord until the device wakes up, or plug it into a PC directly via USB-C.
+In this mode, the device will not turn on when Steam is pressed and instead the LED will blink white twice. To leave this mode, hold the same button chord until the device wakes up, or plug it into a PC directly via USB-C.
 
 [h4]Cleaning[/h4]
 

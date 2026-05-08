@@ -168,13 +168,6 @@ The Steam Controller features an LED which will communicate various states the c
 
 [tr]
 
-[td][img]{STEAM_CLAN_IMAGE}/39983882/dd9004e96b96b08ee2f1ca7f57458db867be7659.gif[/img][/td]
-[td]Red, blinking: The controller is waiting for a direct USB connection to complete the firmware update.[/td]
-
-[/tr]
-
-[tr]
-
 [td][img]{STEAM_CLAN_IMAGE}/39983882/ad86bbb06615e1386be16977d6a311d3bf57264f.gif[/img][/td]
 [td]Red, ramping: The controller is updating firmware.[/td]
 
@@ -198,7 +191,7 @@ The Steam Controller features an LED which will communicate various states the c
 [tr]
 
 [td][img]{STEAM_CLAN_IMAGE}/39983882/5bf147df8057e35e6d92127cad507e45caf6fcb3.gif[/img][/td]
-[td]Orange, breathing: Not connected but charging. This can happen over USB or puck. It tells you the controller isn't sending surface inputs and the battery isn't full. It will turn off when done.
+[td]Orange, breathing: Not connected but charging. This can happen over USB or puck. It tells you the controller isn't sending inputs and the battery isn't full. It will turn off when done charging.
 [/td]
 
 [/tr]
