@@ -1,4 +1,4 @@
-[h1]Steam Controller - Feature & Troubleshooting guide[/h1]
+[h1]Steam Controller (2026) - Feature & Troubleshooting guide[/h1]
 
 [h3]First steps[/h3]
 Before attempting in-depth troubleshooting or contacting Steam Support, be sure to do the following:
@@ -145,7 +145,7 @@ With the Controller powered off, plug it directly into your PC with the USB-C ca
 [/section]
 
 [h1]Steam Controller LED Patterns[/h1]
-The LED above the Steam button communicates information about the current state of the Steam Controller. For a comprehensive visual reference, visit our [url=https://steamcommunity.com/faqs/view/6AB9-3A71-ED45-3FB3]Steam Controller LED[/url] article.
+The LED above the Steam button communicates information about the current state of the Steam Controller. For a comprehensive visual reference, visit our [url=https://help.steampowered.com/en/faqs/view/6AB9-3A71-ED45-3FB3]Steam Controller LED[/url] article.
 
 [table]
 
