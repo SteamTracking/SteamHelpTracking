@@ -9,13 +9,13 @@
 [/h2]
 We have seen increasing reports of scammers contacting their victims over the phone and coercing them to purchase Steam Wallet Gift Cards to cover payment for taxes, bail, debts, or delivery of money won in sweepstakes. The scammers often pose as agents of official agencies, such as the I.R.S., to convince their victims to comply.
 
-Victims are urged to purchase Steam Wallet Gift Cards at a retail shop in their area. Once the codes have been purchased and activated through the retailer, scammers ask the victims to scratch the codes and read them over the phone.
+Victims are urged to purchase Steam Wallet Gift Cards at a retail shop in their area. Once the codes have been purchased and activated through the retailer, scammers ask the victims to scratch the codes and read them over the phone or take a photo and send via text message or e-mail. You can read more about these types of scams on the [url=https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams]U.S. Federal Trade Commission website[/url].
 
-Please be aware that Steam Wallet Gift Cards can only be activated on Steam. The associated value can only be used to purchase products such as video games, in-game items, software, and hardware. If someone contacts you to pay them in Steam Wallet Gift Cards, you are most likely targeted in a scam.
+[b]Please be aware that Steam Wallet Gift Cards can only be activated on Steam. The associated value can only be used to purchase products such as video games, in-game items, software, and hardware. If someone contacts you to pay them in Steam Wallet Gift Cards, you are most likely targeted in a scam.
 
-Never give out a Steam Wallet Gift Card to a person you do not know.
+Never give out a Steam Wallet Gift Card to a person you do not know.[/b]
 
-[h2]Steps to take:
+[h2]Steps to take if you believe you were scammed :
 
 [/h2]
 
@@ -34,11 +34,21 @@ More information on Steam Wallet Codes can be found in our [url=https://support.
 [h1]Steam Wallet Gift Card Examples:[/h1]
 
 [h2]Front:[/h2]
+
+[img]{STEAM_CLAN_IMAGE}/39983882/39bee82a9cb5ebefc06fc65797c4f0d9a6715719.png[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/3a52c2da16a6515dea576321fadf4ed57bbfea40.png[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/24ce6f5030363dec193e970bfccb8ccfc6c29a76.png[/img]
+
+[h2]Old Cards (2019 and earlier)[/h2]
+
 [img]http://steamcdn-a.akamaihd.net/steam/support/faq/SteamWalletCard_Logo_Front_Blue.png[/img]
 
-[img]http://steamcdn-a.akamaihd.net/steam/support/faq/SteamWalletCard_Logo_Front_Green.png[/img]
-[img]http://steamcdn-a.akamaihd.net/steam/support/faq/SteamWalletCard_Logo_Front_Red.png[/img]
-
 [h2]Back:[/h2]
+
+[img]{STEAM_CLAN_IMAGE}/39983882/d1afe87b30e98f053f072922225ac0accae245bc.png[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/06a29c6edabadc1d8f40c4420a576303afd7222e.png[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/79bfda1d1b961ae4e0afdfa821334463dab998c3.png[/img]
+
+[h2]Old Cards (2019 and earlier)[/h2]
+
 [img]https://support.steampowered.com/images/faq/wallet/epaywalletcard.png[/img]
-[img]https://support.steampowered.com/images/faq/wallet/fastcardwalletcard.png[/img]
