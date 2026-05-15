@@ -30,6 +30,8 @@ There are a few different reasons why you may be unable to trade or use the Comm
 
 [*][url=#vac]VAC Ban[/url]
 
+[*][url=#tradecooldown]Trade Cooldown[/url]
+
 [*][url=#games]Additionally[/url]
 
 [/list]
@@ -138,6 +140,12 @@ If a VAC Ban, cooldown or overwatch ban has been registered on your account, you
 Steam Support cannot remove a VAC ban.
 
 See the [url=https://support.steampowered.com/kb_article.php?ref=7849-Radz-6869]VAC FAQ[/url] and the [url=https://support.steampowered.com/kb_article.php?ref=4044-QDHJ-5691]I've Been Banned[/url] article to learn more about VAC Bans.
+
+[url id=tradecooldown][/url]
+
+[h3]Trade Cooldown[/h3]
+
+Your account will not be able to make full use of the Community Market while a trade cooldown is in effect. This includes cooldowns applied by the [url=https://support.steampowered.com/kb_article.php?ref=365F-4BEE-2AE2-7BDD]Trade Protection[/url] system.
 
 [url id=games][/url]
 
