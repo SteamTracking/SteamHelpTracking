@@ -1,4 +1,4 @@
-[h1]Valve Hardware Return Packaging Guide[/h1]
+[h1]Hardware Return Packaging Guide[/h1]
 
 [h1]Contact Steam Support[/h1]
 Do not return items without contacting us first. Make sure you have worked with [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url] to initiate a return or a replacement.
