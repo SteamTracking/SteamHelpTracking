@@ -13,7 +13,7 @@
 [*][url=#mistake]Can you help me remove the 30 day trade and market cooldowns?[/url] [/*]
 [*][url=#optout]Can I opt out of Trade Protected features for my items?[/url] [/*]
 [*][url=#combine]Why can't I combine items from a Trade Protected game and another game in a trade?[/url] [/*]
-[*][url=#tradeholds]What happens to trade holds?[/url]
+[*][url=#tradeholds]What happens to trade holds and trade escrow?[/url]
 [/list]
 
 [section id=meaning]
@@ -100,6 +100,8 @@ All items in a trade need to have the same level of protection. Counter-Strike 2
 
 [section id=tradeholds]
 
-[h2]What happens to trade holds?[/h2]
-If you confirm trades without using the mobile app, your items will still be held for 15 days. These items can be consumed, modified, and transferred immediately after the trade hold expires.
+[h2]What happens to trade holds and trade escrow?[/h2]
+As of May 26th, 2026, Counter-Strike 2 items are not subject to trade holds or trade escrow.
+
+Regardless of the level of protection an account has, Counter-Strike 2 items are immediately traded between accounts because of Trade Protection.
 [/section]
