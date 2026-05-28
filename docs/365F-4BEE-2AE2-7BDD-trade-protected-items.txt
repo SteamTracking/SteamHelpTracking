@@ -101,7 +101,7 @@ All items in a trade need to have the same level of protection. Counter-Strike 2
 [section id=tradeholds]
 
 [h2]What happens to trade holds and trade escrow?[/h2]
-As of May 26th, 2026, Counter-Strike 2 items are not subject to trade holds or trade escrow.
+Counter-Strike 2 items are not subject to trade holds or trade escrow.
 
 Regardless of the level of protection an account has, Counter-Strike 2 items are immediately traded between accounts because of Trade Protection.
 [/section]
