@@ -131,7 +131,7 @@ If your controller is experiencing connection reliability issues (reduced range,
 
 [h4]Pairing with Bluetooth[/h4]
 
-First, make sure your Controller is powered off, then press and hold B + R1 + Steam for about 4 seconds until the Controller chimes. The LED will rapidly blink with double blue pulses to indicate it is ready to pair.
+First, make sure your Controller is powered off, then press and hold B + R1 + Steam. The Controller will chime and power on, but keep holding this chord until the second chime and you see the LED rapidly blink with double blue pulses to indicate it is ready to pair.
 
 Navigate to your device's Bluetooth settings and find the Steam Controller. It will identify itself as 'Steam Ctrl (BT) FXA...'
 
