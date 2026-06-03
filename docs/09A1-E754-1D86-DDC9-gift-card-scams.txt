@@ -1,15 +1,8 @@
-[h1]Steam Wallet Gift Card Scam[/h1]
+[h1]Gift Card Scams[/h1]
 
-[img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
+Unfortunately, scammers use gift cards from major brands like Steam to take advantage of all people all over the world. We have seen reports of scammers contacting their victims over the phone and coercing them to purchase gift cards to cover payment for taxes, bail, debts, or delivery of money won in sweepstakes. The scammers often pose as agents of official agencies, such as the I.R.S., to convince their victims to comply.
 
-[h1][b][b]Steam Wallet Gift Card Scams[/b][/b][/h1]
-
-[h2]General information for customers:
-
-[/h2]
-We have seen increasing reports of scammers contacting their victims over the phone and coercing them to purchase Steam Wallet Gift Cards to cover payment for taxes, bail, debts, or delivery of money won in sweepstakes. The scammers often pose as agents of official agencies, such as the I.R.S., to convince their victims to comply.
-
-Victims are urged to purchase Steam Wallet Gift Cards at a retail shop in their area. Once the codes have been purchased and activated through the retailer, scammers ask the victims to scratch the codes and read them over the phone or take a photo and send via text message or e-mail. You can read more about these types of scams on the [url=https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams]U.S. Federal Trade Commission website[/url].
+Victims are urged to purchase gift cards at a retail shop in their area. Once the codes have been purchased and activated through the retailer, scammers ask the victims to scratch the codes and read them over the phone or take a photo and send via text message or e-mail. You can read more about these types of scams on the [url=https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams]U.S. Federal Trade Commission website[/url].
 
 [b]Please be aware that Steam Wallet Gift Cards can only be activated on Steam. The associated value can only be used to purchase products such as video games, in-game items, software, and hardware. If someone contacts you to pay them in Steam Wallet Gift Cards, you are most likely targeted in a scam.
 
@@ -29,7 +22,7 @@ Never give out a Steam Wallet Gift Card to a person you do not know.[/b]
 
 [/list]
 
-More information on Steam Wallet Codes can be found in our [url=https://support.steampowered.com/kb_article.php?ref=1193-WLXV-6514]Steam Wallet Code FAQ[/url]
+More information on Steam Wallet Codes can be found in our [url=https://help.steampowered.com/en/faqs/view/78E3-7431-1E88-AD59]Steam Wallet FAQ[/url]
 
 [h1]Steam Wallet Gift Card Examples:[/h1]
 
