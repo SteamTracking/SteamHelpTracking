@@ -252,6 +252,8 @@ R4 + R5 + L4 + L5 + Steam
 
 In this mode, the device will not turn on when Steam is pressed and instead the LED will blink white twice. To leave this mode, hold the same button chord until the device wakes up, or plug it into a PC directly via USB-C.
 
+We don't recommend transporting the Controller with the Puck physically attached, as this may cause damage to the charging connectors.
+
 [h4]Battery health[/h4]
 
 The Steam Controller was designed to be left charging with either Puck or USB-C whenever it's not being used. Charging behavior is managed directly in firmware and is optimized for long-term battery health, so feel free to charge as frequently as you like.

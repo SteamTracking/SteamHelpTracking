@@ -8,6 +8,78 @@
 
 [tr]
 
+[td][img]{STEAM_CLAN_IMAGE}/39983882/18c82a87bf9813aaedab038365fb73975141fad8.png[/img][/td]
+[td]   [/td]
+[td]
+
+[h4]Model 1012 - Steam Controller Wireless Adapter[/h4]
+
+CE Declaration of Conformity
+
+[list]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_signed.pdf]English[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_052126_french.pdf]French[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_052126_german.pdf]German[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_052126_italian.pdf]Italian[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_052126_spanish.pdf]Spanish[/url]
+
+[/list]
+
+UK Declaration of Conformity
+
+[list]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_UK_Declaration_of_Conformity_signed.pdf]English[/url]
+
+[/list]
+
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/d90fda51d5ef4de17a01ef89b44b9f5dab55fc27.png[/img][/td]
+[td]   [/td]
+[td]
+
+[h4]Model 1011 - Steam Controller[/h4]
+
+CE Declaration of Conformity
+
+[list]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_signed.pdf]English[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_052126_french.pdf]French[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_052126_german.pdf]German[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_052126_italian.pdf]Italian[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_052126_spanish.pdf]Spanish[/url]
+
+[/list]
+
+UK Declaration of Conformity
+
+[list]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_UK_Declaration_of_Conformity_signed.pdf]English[/url]
+
+[/list]
+
+[/td]
+
+[/tr]
+
+[tr]
+
 [td][img]{STEAM_CLAN_IMAGE}/39983882/459a0b62f25885fbbef367a75dd421be1e7b0e65.png[/img][/td]
 [td]   [/td]
 [td]
