@@ -38,11 +38,11 @@ Before attempting in-depth troubleshooting or contacting Steam Support, be sure 
 [hr][/hr]
 
 [h1]Pairing and Connectivity[/h1]
-There are three different ways to use your Steam Controller with your PC or Steam Machine. Refer below for information about each mode and how to switch between them.
+There are three different ways to connect your Steam Controller with your gaming devices. Refer below for information about each mode and how to switch between them.
 
 [list]
 
-[*]Steam Controller Puck (Valve wireless) - White LED
+[*][b]Steam Controller Puck (Valve wireless)[/b] - White LED
 By default, the Steam Controller uses an included wireless receiver we call a 'Puck'. For the fastest and most reliable connection, we generally recommend using this mode.
 
 [list]
@@ -50,23 +50,20 @@ By default, the Steam Controller uses an included wireless receiver we call a 'P
 [*]Proprietary 2.4Ghz wireless connection.
 
 [*]The Steam Controller has two virtual 'slots' - right and left - that can remember connections for two separate Pucks.
-
 [/list]
 
-[*]Bluetooth (wireless) - Blue LED
+[*][b]Bluetooth (wireless)[/b] - Blue LED
 
 [list]
 
 [*]Standard 2.4GHz wireless.
-
 [/list]
 
-[*]Wired (via USB-C) - Green LED
+[*][b]Wired (via USB-C)[/b] - Green LED
 
 [list]
 
 [*]A direct wired connection between the Controller and the device. This can be used at any time.
-
 [/list]
 
 [/list]
@@ -81,17 +78,42 @@ The Steam Controller can also maintain a Bluetooth pairing independently of its 
 
 When powered on, the Controller will connect by default to the last paired connection used. To power off the Controller, hold down the Steam button for ~5 seconds until you hear the chime and the LED turns off.
 
-To switch from one wireless connection mode to another, start with the Controller turned off and then power it on using one of the following methods:
+To switch from one wireless connection mode to another, start with the Controller turned off and then power it on using the methods below.
+
+[list]
+[b]Puck[/b]:
 
 [list]
 
 [*]To use Puck wireless mode (right slot), press and hold A + R1 + Steam until you hear a chime and the LED turns white.
 
 [*]To use Puck wireless mode (left slot), press and hold A + L1 + Steam until you hear a chime and the LED turns white.
-
-[*]To use Bluetooth mode, press and hold B + R1 + Steam until you hear a chime and the LED turns blue.
+[/list]
 
 [/list]
+
+[list]
+[b]Bluetooth[/b]:
+
+[list]
+
+[*]To[b] start[/b] the Controller in Bluetooth mode, press and hold B + R1 + Steam until you hear a chime and the LED turns blue.
+
+[*]To[b] pair[/b] the Controller in Bluetooth mode, make sure your Controller is powered off, then press and hold B + R1 + Steam. The Controller will chime and power on, but keep holding this chord until the second chime and you see the LED rapidly blink with double blue pulses to indicate it is ready to pair.
+
+[*]Navigate to your device's Bluetooth settings and find the Steam Controller. It will identify itself as 'Steam Ctrl (BT) FXA...'
+
+[*]Once pairing is complete, the LED should show solid blue.
+[/list]
+
+[/list]
+
+[h4]Using a wired USB-C connection[/h4]
+
+With the Controller powered off, plug it directly into your PC with the USB-C cable. The Controller will turn on in USB-C mode.
+
+[section id=led]The LED should show solid green when using a wired connection.
+[/section]
 
 To use the wired USB-C mode:
 
@@ -128,21 +150,6 @@ If your controller is experiencing connection reliability issues (reduced range,
 [*]Make sure the puck isn't obstructed by signal blocking materials (e.g., metal, or carbon fiber materials)
 
 [/list]
-
-[h4]Pairing with Bluetooth[/h4]
-
-First, make sure your Controller is powered off, then press and hold B + R1 + Steam. The Controller will chime and power on, but keep holding this chord until the second chime and you see the LED rapidly blink with double blue pulses to indicate it is ready to pair.
-
-Navigate to your device's Bluetooth settings and find the Steam Controller. It will identify itself as 'Steam Ctrl (BT) FXA...'
-
-Once pairing is complete, the LED should show solid blue.
-
-[h4]Using a wired USB-C connection[/h4]
-
-With the Controller powered off, plug it directly into your PC with the USB-C cable. The Controller will turn on in USB-C mode.
-
-[section id=led]The LED should show solid green when using a wired connection.
-[/section]
 
 [h1]Steam Controller LED Patterns[/h1]
 The LED above the Steam button communicates information about the current state of the Steam Controller. For a comprehensive visual reference, visit our [url=https://help.steampowered.com/en/faqs/view/6AB9-3A71-ED45-3FB3]Steam Controller LED[/url] article.
