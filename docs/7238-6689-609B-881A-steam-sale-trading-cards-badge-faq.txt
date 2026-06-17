@@ -15,7 +15,7 @@ Steam Sale cards are only available during the Summer and Winter Sales. There ar
 [olist]
 
 [*][b]Craft a game badge[/b]
-Starting one week prior to the start of the sale, crafting a game badge earns you a mystery card. During the sale, each game badge you craft will get you an additional Steam Sale Trading Card.
+During the sale, each game badge you craft will get you an additional Steam Sale Trading Card.
 
 [*][b]Make a purchase[/b]
 As an extra reward for purchasing, for every $10 USD spent during the sale you’ll receive a Steam Sale Trading Card. From your sale badge page select “How do I get more cards?” to track your purchasing progress.
