@@ -121,7 +121,7 @@ Unverified payment methods will be subject to a 3 day waiting period before purc
 
 [h3]No Purchase Older Than 7 Days[/h3]
 
-Your account must have a successful purchase older than 7 days, but not older than a year in order to access the Community Market. The purchase of wallet funds, games, DLCs and software meet this requirement. Activating a Steam Wallet Code or Gift Card on your account to add funds to your Steam Wallet also meet this requirement. Retail CD key activation and gift purchases do not satisfy this requirement.
+Your account must have a successful purchase older than 7 days, but not older than a year in order to access the Community Market. The purchase of wallet funds, games, DLCs and software meet this requirement. Retail CD key activation and gift purchases do not satisfy this requirement.
 
 Any purchase that is charged back on your account will reset this restriction. Only purchases after the most recent chargeback will be considered for purposes of this restriction.
 
