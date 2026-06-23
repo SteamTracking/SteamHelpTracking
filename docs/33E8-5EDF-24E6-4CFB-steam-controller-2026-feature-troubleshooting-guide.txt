@@ -112,8 +112,7 @@ To switch from one wireless connection mode to another, start with the Controlle
 
 With the Controller powered off, plug it directly into your PC with the USB-C cable. The Controller will turn on in USB-C mode.
 
-[section id=led]The LED should show solid green when using a wired connection.
-[/section]
+The LED should show solid green when using a wired connection.
 
 To use the wired USB-C mode:
 
@@ -140,6 +139,9 @@ You can view a visual representation of signal strength between your controller 
 [img]{STEAM_CLAN_IMAGE}/39983882/778b0e899d0190eb571fbdaea9a88943cc373c8e.png[/img]
 
 If your controller is experiencing connection reliability issues (reduced range, disconnections, or input latency) while connected to the puck, try the following to improve signal strength.
+
+[section id=led]
+[/section]
 
 [list]
 

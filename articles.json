@@ -890,8 +890,8 @@
     "3740343803020987643": {
         "title": "Steam Controller (2026) - Feature & Troubleshooting guide",
         "url_code": "33E8-5EDF-24E6-4CFB",
-        "version": 15,
-        "timestamp": "2026-06-15 23:07:12"
+        "version": 16,
+        "timestamp": "2026-06-22 21:32:44"
     },
     "3774805164909483879": {
         "title": "Understanding the In-Game Overlay Performance Monitor",
@@ -1631,6 +1631,12 @@
         "version": 7,
         "timestamp": "2023-02-27 18:00:09"
     },
+    "6359958438069922879": {
+        "title": "Steam\u00ae Machine Limited Drop Program Terms",
+        "url_code": "5843-1C80-BF67-EC3F",
+        "version": 1,
+        "timestamp": "2026-06-22 17:01:52"
+    },
     "6380693012289274486": {
         "title": "Steam Profile Privacy",
         "url_code": "588C-C67D-0251-C276",
@@ -1940,8 +1946,8 @@
     "7328529374804132391": {
         "title": "SteamOS Installation and Repair",
         "url_code": "65B4-2AA3-5F37-4227",
-        "version": 2,
-        "timestamp": "2025-07-16 22:09:42"
+        "version": 5,
+        "timestamp": "2026-06-22 17:26:54"
     },
     "7339386427994118227": {
         "title": "CS:GO - Overwatch System",

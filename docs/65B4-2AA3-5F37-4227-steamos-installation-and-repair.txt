@@ -13,7 +13,7 @@ This article includes instructions for [b]installing, re-imaging, or repairing S
 
 You might need to do this if you would like to install SteamOS on your device, have installed another OS and would like to get back to SteamOS, or are experiencing other breaking issues. For other recovery and troubleshooting options, visit [url=https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3]SteamOS Recovery and Troubleshooting.[/url]
 
-Currently, the only devices officially 'Powered by SteamOS' are [b]Steam Deck[/b] and [b]Legion Go S.[/b] We are working on broadening support, and with the recent updates to Steam and SteamOS 3.7, compatibility with other AMD powered PC handhelds has been improved.
+Currently, the only devices officially 'Powered by SteamOS' are Steam Deck, Steam Machine and Legion Go S. We are working on broadening support, and with the recent updates to Steam and SteamOS 3.8, compatibility with other AMD powered PCs (handhelds and desktops) has been improved.
 
 [table noborder=1 equalcells=1]
 
@@ -26,33 +26,18 @@ Currently, the only devices officially 'Powered by SteamOS' are [b]Steam Deck[/b
 
 [tr]
 
-[td]Steam Deck[/td]
-[td]Lenovo Legion Go[/td]
-
-[/tr]
-
-[tr]
-
-[td]Lenovo Legion Go S[/td]
-[td]ASUS ROG Ally[/td]
-
-[/tr]
-
-[tr]
-
-[td] [/td]
-[td]ASUS ROG Ally X[/td]
-
-[/tr]
-
-[tr]
-
-[td] [/td]
-[td]Other AMD powered handhelds[/td]
+[td]Steam Deck
+Lenovo Legion Go S[/td]
+[td]Lenovo Legion Go
+ASUS ROG Ally
+ASUS ROG Ally X
+Other AMD powered handhelds
+AMD discrete GPUs[/td]
 
 [/tr]
 
 [/table]
+
 [url id=install][/url]
 
 [h2]Installing SteamOS [/h2]
