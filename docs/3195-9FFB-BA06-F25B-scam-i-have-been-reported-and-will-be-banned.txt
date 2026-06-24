@@ -16,6 +16,13 @@ This scam can be quickly identified if [b]any[/b] of the following are present:
 
 [*]A friend or unknown person contacts you through Steam, Discord or any other chat client and tells you that your account has been falsely or accidentally reported
 
+[*]Your library is blocked and an alert directs you to contact a support agent via Steam Chat, Discord, or another chat system.
+
+[list]
+
+[*][b]Note -[/b] the false restriction is imposed by malware that must be removed to resolve the issue.
+[/list]
+
 [*]You are directed to speak with someone through online chat to resolve an investigation or pending ban
 
 [*]Someone you're speaking to requests your account credentials, or directs you to perform specific security related operations
