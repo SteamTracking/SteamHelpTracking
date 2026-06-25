@@ -35,6 +35,13 @@ This scam can be quickly identified if [b]any[/b] of the following are present:
 
 [/list]
 
+[section style=warning][h1]Malware[/h1]
+Some versions of this scam involve malware imposing fake restrictions and instructions over Steam. Any legitimate Steam Support Alert directs to the [url=https://help.steampowered.com/en/]Steam Support Help Site (https://help.steampowered.com/)[/url].
+
+Any alert directing you to speak with an agent via Steam Chat, Discord, email, or anywhere other than help.steampowered.com is fake. [url=https://help.steampowered.com/en/faqs/view/70D4-67C8-784D-692A]Remove any malware interfering with Steam[/url] to restore normal access to your account and its Library.
+
+[/section]
+
 [h1]Preventing the Scam[/h1]
 
 [h5]Protecting your account[/h5]

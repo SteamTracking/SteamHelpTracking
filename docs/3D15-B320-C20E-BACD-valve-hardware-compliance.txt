@@ -3,8 +3,27 @@
 [img]https://support.steampowered.com/images/faq/steam_universe/header_steamcompliance.png[/img]
 
 [h1]Compliance Documentation[/h1]
-
 [table noborder=1]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/b83f67c727bdd9cbe234a6dd383621e0ff2af940.png[/img][/td]
+[td]   [/td]
+[td]
+
+[h4]Model 1015 - Steam Frame[/h4]
+
+RoHS
+
+[list]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/Model_1015_1017_1018_1019_RoHS.pdf]Traditional Chinese[/url]
+
+[/list]
+
+[/td]
+
+[/tr]
 
 [tr]
 
@@ -218,9 +237,14 @@ UK Declaration of Conformity
 
 [/list]
 
-[h4]RoHS[/h4]
+RoHS
 
-[url=https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_SCH.pdf?v=20162709]Traditional Chinese[/url]
+[list]
+
+[*][url=https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_SCH.pdf?v=20162709]Traditional Chinese[/url]
+
+[/list]
+
 [/td]
 
 [/tr]
