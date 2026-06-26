@@ -17,7 +17,7 @@ RoHS
 
 [list]
 
-[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/Model_1015_1017_1018_1019_RoHS.pdf]Traditional Chinese[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/Model_1015_1017_1018_1019_RoHS_1.pdf]Traditional Chinese[/url]
 
 [/list]
 

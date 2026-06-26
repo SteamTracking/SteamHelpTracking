@@ -1058,8 +1058,8 @@
     "4401621164100598477": {
         "title": "Valve Hardware Compliance",
         "url_code": "3D15-B320-C20E-BACD",
-        "version": 10,
-        "timestamp": "2026-06-24 23:39:36"
+        "version": 11,
+        "timestamp": "2026-06-25 21:36:03"
     },
     "4422431794336645612": {
         "title": "Installing Steam for Linux on an NTFS Partition",
@@ -1206,10 +1206,10 @@
         "timestamp": "2026-06-18 18:36:28"
     },
     "4989808715403268421": {
-        "title": "Advanced Access",
+        "title": "Advance Access",
         "url_code": "453F-5C96-EAC2-9145",
-        "version": 2,
-        "timestamp": "2024-04-24 23:51:20"
+        "version": 3,
+        "timestamp": "2026-06-25 21:48:12"
     },
     "5000804919641806138": {
         "title": "Installing a game from a disc",
