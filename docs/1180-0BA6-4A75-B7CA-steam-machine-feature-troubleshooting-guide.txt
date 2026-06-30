@@ -1,0 +1,226 @@
+[h1]Steam Machine - Feature & Troubleshooting guide[/h1]
+
+[h3]First steps[/h3]
+Before attempting in-depth troubleshooting or contacting Steam Support, be sure to do the following:
+
+[list]
+
+[*]Install any updates available for SteamOS, or device firmware.
+
+[list]
+
+[*]Steam Controller, Puck, and Machine wireless adapter updates are shown in Steam Menu > Settings > Controller, and Steam will also prompt you separately in most cases.
+
+[*]Steam Machine updates will be shown in Steam Menu > Settings > System > Hardware Updates.
+
+[*]SteamOS updates will be shown in Steam Menu > Settings > System > Software Updates.
+
+[/list]
+
+[*]Restart the devices you're having trouble with to see whether this resolves the issue you're experiencing. If possible, disconnect any unnecessary USB or Bluetooth peripherals while troubleshooting.
+
+[*]Refer to any information in this article that may be relevant to your problem.
+
+[*]Still need help? You can contact Steam Support using the link at the bottom of this page.
+
+[/list]
+
+[hr][/hr]
+
+[h1]Contents[/h1]
+
+[list]
+
+[*][url=#setup]Initial Setup[/url]
+
+[*][url=#net]Network[/url]
+
+[*][url=#pair]Pairing and Connectivity[/url]
+
+[*][url=#dis]External Displays[/url]
+
+[*][url=#usb]USB Devices[/url]
+
+[*][url=#stor]Storage[/url]
+
+[*][url=#desk]Desktop Mode[/url]
+
+[*][url=#led]Steam Machine Light Patterns[/url]
+
+[*][url=#care]Care and Maintenance[/url]
+
+[*][url=#contact]Contact Steam Support[/url]
+
+[/list]
+
+[hr][/hr]
+
+[h1]Walkthrough Video[/h1]
+For a video walkthrough covering setup and general features, check out our YouTube video [url=https://www.youtube.com/watch?v=XPNW3GCIeOM]here (click)[/url].
+
+[section id=setup]
+[/section]
+
+[h1]Initial Setup[/h1]
+Upon your first startup, Steam Machine will guide you through the setup process. You'll be guided to connect a controller, join your network, and login to Steam.
+
+A gamepad or mouse and keyboard is required to complete the setup process. If your Machine came bundled with a Steam Controller (or you already had one), plug it in using one of the Machine's front USB ports using the provided cable before beginning the setup process.
+
+If you have a third-party gamepad, plug it in to one of the Machine's USB ports to navigate and complete initial setup. You can pair it to the Machine via Bluetooth after setup.
+
+[section id=net]
+[/section]
+
+[h1]Network[/h1]
+If you become disconnected or would like to connect to a different network after setup, go to Steam Menu > Settings > Internet, select your network, and enter the password using any connected input device.
+
+If you have trouble with the stability or speed of your connection, you can refer to our [url=https://help.steampowered.com/en/faqs/view/3548-A9F4-02A3-940F]Steam Hardware - Network + Wi-Fi Troubleshooting article[/url] for more information.
+
+[section id=pair]
+[/section]
+
+[h1]Pairing and Connectivity[/h1]
+
+[h4]Game Controllers[/h4]
+
+To see a list of available button chords specific to your controller, perform a long press of the Steam/PS/Xbox button and select Show Controller Shortcuts from the dialog that appears.
+
+[list]
+
+[*]Steam Controller: If you're using a Steam Controller during initial setup, you will be prompted to pair it to the internal wireless adapter during that process. If you'd like to pair your Steam Controller at a later time or pair a different Steam Controller with your Machine, please see the "Pairing and Connectivity" section on our [url=https://help.steampowered.com/en/faqs/view/33E8-5EDF-24E6-4CFB#pairing]Steam Controller Feature & Troubleshooting Guide[/url].
+
+[*]Other Controllers: You can connect other controllers to your Machine directly simply by plugging them in to one of the Machine's compatible ports, or by pairing them wirelessly if your controller supports Bluetooth. See the Bluetooth section below for more information.
+
+[/list]
+
+[h4]Bluetooth[/h4]
+
+To pair a Bluetooth device, check that Bluetooth is enabled from Steam Menu> Settings > Bluetooth, then make sure that the device you want to pair is placed in pairing mode. Please consult your device's documentation for instructions for entering pairing mode. Use another connected input device, such as a second controller or keyboard to navigate the settings and find your device in the list to pair it.
+
+If you don't have a second input device you can use to navigate the pairing process, you can instead use your controller first via a wired connection to navigate to Steam Menu > Settings > Controller > Add Controller. Confirm you want to pair and make sure the correct controller type is selected in the drop-down. From here, unplug the controller and put it in Bluetooth pairing mode. The Steam Machine should pair to the controller automatically once it is available.
+
+If you're having trouble connecting to a previously paired device, restart the Machine, then try forgetting and re-pairing your device.
+
+[b]Bluetooth device not listed[/b]
+If you're not able to find your Bluetooth device, you can go to Steam Menu > Settings > Bluetooth, and toggle the "Show all devices" toggle to ON. Toggling it OFF/ON again may refresh the options you see there.
+
+[b]Pairing issues[/b]
+If your device isn't pairing properly, we recommend making sure you've applied any firmware updates that may be available for the device. We have found that many Xbox controllers require a firmware update before they will function as expected with the Steam hardware, for example. You can update your Xbox controller's firmware by following the 'Update on PC' instructions available at [url=https://support.xbox.com/en-GB/help/hardware-network/controller/update-xbox-wireless-controller]this link[/url]. Note that updating from an Xbox console may not apply the correct firmware version for use with Steam hardware.
+
+[b]Latency issues[/b]
+If you're experiencing latency or other performance issues with your Bluetooth device, start by disconnecting and reconnecting the device to refresh your connection. If the problem persists, you may want to forget and re-pair the device. You can also consider disconnecting or turning off other Bluetooth-enabled devices in the environment to reduce congestion.
+
+[section id=dis]
+[/section]
+
+[h1]External Displays[/h1]
+Steam Machine supports both HDMI 2.0 and DisplayPort 1.4. Multiple displays can be connected, but Gaming Mode currently only supports one display at a time. While DisplayPort can be used as the sole video output, HDMI is the default for Gaming Mode if connected.
+
+1080p is the system default game resolution on Steam Machine (labeled "Default" in the Display dropdown menu) to ensure a good gameplay experience out of the box, and is the resolution we use for Steam Machine Verified testing. Players can change this at a global level in Settings > Display, or on a per-game basis in game settings. Performance may vary depending on each game's default settings.
+
+If you're experiencing display issues, try the following:
+
+[list]
+
+[*]Restart both the Machine and your display
+
+[*]Disconnect and reconnect the display cable, ensuring it is fully seated at both ends
+
+[*]Verify the correct input is selected on your multi-input display
+
+[*]If your display (especially TVs) has multiple HDMI or DisplayPort ports, try a different one
+
+[*]Test with other display cables and if available, another display
+
+[*]If you're using a dock, receiver, soundbar, switch, or adapter, connect the Machine directly to the display
+[/list]
+
+[section id=usb]
+[/section]
+
+[h1]USB devices[/h1]
+The USB-A ports in the front of the Machine are USB 3.2 Gen 1, and the ports in the back are USB-A 2.0. If you're having trouble using a peripheral device over USB-A, try swapping it to each of the different ports to see if this eliminates the problem. If possible, connect the device directly to the Machine (bypassing any hubs or adapters) and disconnect any unnecessary USB devices during troubleshooting.
+
+The USB-C port in back utilizes a separate bus, so utilizing it when possible can help minimize bandwidth usage with multiple USB devices connected.
+
+[section id=stor]
+[/section]
+
+[h1]Storage[/h1]
+Your Steam Machine uses built-in storage by default. You can manage your system storage, as well as any other connected storage from Steam Menu > Settings > Storage.
+
+[h4]MicroSD cards[/h4]
+
+MicroSD cards will need to be formatted before they can be used with your Steam Machine. To format a microSD card, insert it into the slot on the front of the Machine and go to Settings > Storage > Select your SD Card and bring up the options menu, then select Format. It may take a few minutes to complete the process.
+
+Any UHS-I (class 3 or better) microSD card is supported. UHS-II and UHS-III cards are expected to work as well, but their higher data transfer speeds are not supported.
+
+If you've previously used a microSD card for Library storage with a Steam Deck, you should be able to use that card with your Steam Machine and play the installed games without performing any additional steps.
+
+[section id=desk]
+[/section]
+
+[h1]Desktop Mode[/h1]
+You can access Desktop Mode from Steam Menu > Power > Switch to Desktop. This will provide a standard Linux desktop experience. You will need a keyboard and mouse or Steam Controller to navigate.
+
+Return to Gaming Mode by selecting the corresponding icon on the desktop, or navigating to Application Launcher > Session > Log Out.
+
+[section id=led]
+[/section]
+
+[h1]Steam Machine Light Patterns[/h1]
+The Steam Machine has two lights to communicate status - the light bar, which runs along the bottom of the Machine, and the Indicator LED next to the power button. The light bar is currently only set up to display system status and cannot be directly utilized by games or other apps with RGB functionality.
+
+Please see our [url=https://help.steampowered.com/faqs/view/6945-03B8-1EC9-0237]Steam Machine LED[/url] article for more information about the patterns and their associated meanings.
+
+[section id=care]
+[/section]
+
+[h1]Care and Maintenance[/h1]
+Tips for keeping your device safe and in good condition.
+
+[h4]Placement[/h4]
+
+Avoid placing the Steam Machine in an enclosed space during use, as this may cause overheating. If placed in an entertainment center or other receptacle, a few inches of space on all sides and at least one open panel are recommended. More room is better.
+
+Avoid placing the Steam Machine on carpet or other similar surfaces.
+
+RF noisy devices such as wireless routers, poorly shielded USB3 drives or other Bluetooth devices in proximity to either Steam Machine or Steam Controller can cause issues with connection speeds or stability.
+
+[h4]Cleaning[/h4]
+
+To clean the outer surfaces, use a dry microfiber cloth if possible. A small amount of isopropyl alcohol can be used if necessary. If using isopropyl, apply a small amount directly to the cloth and use only on outer plastics, avoiding open areas and ports.
+
+The fans may collect dust over time and need to be periodically cleaned. Vacuuming or using compressed air can cause the fan blades to spin fast enough to damage the fan's components. If using these methods, be sure to hold the fan blades firmly in place while cleaning.
+
+[h4]Disassembly and Modification[/h4]
+
+We don't recommend opening or otherwise modifying your device - the internal components are sensitive and any damage that results won't be covered under your product warranty.
+
+If you do decide to open your device despite this risk, accessible screws used in the device require a T8 Torx driver. An extended bit may be required to reach some internal screws without risking damage to nearby components.
+
+Valve is not responsible for replacing or servicing screws or other components damaged while attempting to open or modify your Steam Machine.
+
+[h4]Environmental[/h4]
+
+The Steam Machine's safe storage temperature range is between -20° - +60° C (-4° - +140° F).
+
+The Steam Machine's safe operational ranges are:
+
+[list]
+
+[*]Ambient temperature - 0° - +35° C (+32° - +95° F)
+
+[*]Humidity - up to 85% non-condensing relative humidity
+
+[*]Altitude - up to 3500m
+
+[/list]
+
+[section id=contact]
+[/section]
+
+[hr][/hr]
+
+[h1]Contact Steam Support[/h1]
+Unable to resolve your issue using the information provided here? [url=https://help.steampowered.com/en/wizard/HelpWithSteamMachine]Open a ticket with Steam Support[/url].

@@ -245,6 +245,12 @@
         "version": 9,
         "timestamp": "2021-12-02 22:55:41"
     },
+    "1057241001347476996": {
+        "title": "Troubleshooting USB Connection and Contention Issues",
+        "url_code": "0EAC-1316-D74B-6E04",
+        "version": 1,
+        "timestamp": "2026-06-29 23:46:17"
+    },
     "1120798639422331823": {
         "title": "Team Fortress 2 Replay Server Overview",
         "url_code": "0F8D-E06C-9F82-5BAF",
@@ -310,6 +316,12 @@
         "url_code": "1150-C06F-4D62-4966",
         "version": 2,
         "timestamp": "2025-09-09 19:42:08"
+    },
+    "1261020704505444298": {
+        "title": "Steam Machine - Feature & Troubleshooting guide",
+        "url_code": "1180-0BA6-4A75-B7CA",
+        "version": 3,
+        "timestamp": "2026-06-29 19:11:41"
     },
     "1281012404870241244": {
         "title": "Third-Party Game Support",
@@ -464,8 +476,8 @@
     "1977623338980027315": {
         "title": "SteamOS Recovery and Troubleshooting",
         "url_code": "1B71-EDF2-EB6D-2BB3",
-        "version": 15,
-        "timestamp": "2025-07-15 17:42:47"
+        "version": 16,
+        "timestamp": "2026-06-29 23:03:04"
     },
     "2003838845194416172": {
         "title": "Counter-Strike 2 Leaderboards",
@@ -890,8 +902,8 @@
     "3740343803020987643": {
         "title": "Steam Controller (2026) - Feature & Troubleshooting guide",
         "url_code": "33E8-5EDF-24E6-4CFB",
-        "version": 16,
-        "timestamp": "2026-06-22 21:32:44"
+        "version": 17,
+        "timestamp": "2026-06-29 21:05:37"
     },
     "3774805164909483879": {
         "title": "Understanding the In-Game Overlay Performance Monitor",
@@ -1946,8 +1958,8 @@
     "7328529374804132391": {
         "title": "SteamOS Installation and Repair",
         "url_code": "65B4-2AA3-5F37-4227",
-        "version": 5,
-        "timestamp": "2026-06-22 17:26:54"
+        "version": 6,
+        "timestamp": "2026-06-29 22:57:35"
     },
     "7339386427994118227": {
         "title": "CS:GO - Overwatch System",
@@ -2020,6 +2032,12 @@
         "url_code": "693A-35F5-00A7-D7F5",
         "version": 6,
         "timestamp": "2026-01-24 00:21:00"
+    },
+    "7585473236700824119": {
+        "title": "Reference - Steam Machine LED",
+        "url_code": "6945-03B8-1EC9-0237",
+        "version": 1,
+        "timestamp": "2026-06-29 19:26:48"
     },
     "7586403624451082884": {
         "title": "Find Downloadable Content (DLC) for My Games",

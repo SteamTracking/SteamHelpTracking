@@ -27,7 +27,9 @@ Currently, the only devices officially 'Powered by SteamOS' are Steam Deck, Stea
 [tr]
 
 [td]Steam Deck
-Lenovo Legion Go S[/td]
+Steam Machine
+Lenovo Legion Go S
+[/td]
 [td]Lenovo Legion Go
 ASUS ROG Ally
 ASUS ROG Ally X
@@ -58,25 +60,37 @@ AMD discrete GPUs[/td]
 [code]bzcat steamdeck-recovery-4.img.bz2 | sudo dd if=/dev/stdin of=/dev/sdX oflag=sync status=progress bs=128M[/code] (set /dev/sdX to the USB device you inserted)
 [/list]
 
-[*] Shut down your Steam Deck or other device if it isn't already off. On a Steam Deck, hold 'Volume Up' and click the Power Button - when you hear the chime, let go of the Volume Up button, and you'll be booted into the Boot Menu. Use the dpad and A button to select the Boot Manager.
+[*] Shut down your device if it isn't already off.
+
+[*] Insert the USB recovery drive you created into your device’s free USB port, or hub.
+
+[*] Enter the BIOS/Boot Manager for your device.
 
 [list]
 
-[*] On most non-Steam Deck devices, you will need to disable Secure Boot in order to boot from a USB drive. [url=#secureboot]Learn more here [/url]
+[*] On a [b]Steam Deck[/b], hold 'Volume Up' and click the Power Button - when you hear the chime, let go of the Volume Up button, and you'll be booted into the Boot Menu. Use the dpad and A button to select the Boot Manager.
 
-[*] Follow the instructions for your specific device to get to the Boot Menu.
+[*] On a [b]Steam Machine[/b], power it on and hit the "Esc" key on your wired keyboard few times during boot to enter the BIOS.
+
+[*] For [b]other hardware[/b], follow the instructions for your specific device to get to the Boot Menu. You may need to disable Secure Boot in order to boot from a USB drive. [url=#secureboot]Learn more here[/url].
 
 [/list]
 
-[*] Use a USB-C adapter or hub to plug the boot disk in.
+[*] Select to boot from the USB recovery drive
 
-[*] In the Boot Manager, boot from the 'EFI USB Device' (your USB key)
+[list]
+
+[*] On a [b]Steam Deck[/b], navigate to Boot Manager, boot from the 'EFI USB Device' (your USB key)
+
+[*] On a [b]Steam Machine[/b], use a keyboard to navigate these menus, and select Boot Configuration, UEFI (your USB key)
+
+[/list]
 
 [*] The screen will go dark while it's booting - give it a minute.
 
-[*] Once booted you will be in a desktop environment, you can navigate using trackpad and trigger, touchscreen, or mouse.
+[*] Once booted you will be in a desktop environment, you can navigate using trackpad and trigger, or touchscreen (on Deck), or mouse (on Machine).
 
-[*] Select the [b]Re-image Device[/b] option on the desktop. This will fully wipe your device and install stock SteamOS.
+[*] Select the [b]Wipe Device & Install SteamOS[/b] option on the desktop. This will fully wipe your device and install stock SteamOS.
 
 [*] Once it's done installing, reboot and you will be in the SteamOS welcome experience.
 

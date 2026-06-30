@@ -1,0 +1,182 @@
+[h1]Reference - Steam Machine LED[/h1]
+
+The Steam Machine communicates its current state via the LED light bar and indicator light. Some of these states can be overwritten by customizing the light bar, but the defaults are shown below.
+
+[h2] Nominal Light Patterns [/h2]
+
+[hr][/hr]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b] LED Pattern [/b][/td]
+[td][b]Meaning[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/37b681783eeac4c3408427b4df618c41c9968c8d.png[/img][/td]
+[td]
+
+Light Bar: off
+Indicator LED: off
+
+Steam machine is in shutdown. Power on the Steam Machine by either powering on a Steam Controller paired to the internal wireless adapter, or pressing the physical power button on the front of the Machine.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/205759df72ae1eb47a0f04d8a1ee7fd29678614e.png[/img][/td]
+[td]
+Light Bar: off
+Indicator LED: White, solid
+
+Steam Machine is in standby. A previously connected mouse, keyboard, or controller can be used to wake the Steam Machine via Bluetooth or USB.
+
+Note: USB devices connected while sleeping cannot wake the steam machine. Devices need to remain connected throughout the sleep session to wake the steam machine.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/02ef09ef98de55af50572e083d4f34f04a6070a8.gif[/img][/td]
+[td]
+Light Bar: White, breathing
+Indicator LED: White, solid
+
+Steam Machine is booting.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/892d9ad42726f407434055bd61b592cf1c1a29c9.png[/img][/td]
+[td]
+Light Bar: Blue (default color), solid
+Indicator LED: White, solid
+
+Steam Machine is on and has completed booting. This Light Bar can be configured in your Machine's settings > customization to be a different color or brightness. The default is depicted here.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/ec465d6b968df8255b80d8e495afdc83f5f8bdf5.gif[/img][/td]
+[td]
+Light Bar: Blue (default color), progressing from left to right
+Indicator LED: White, solid
+
+The Steam Machine is downloading something. The filled potion of the light bar represents the approximate completion percentage of the active download. [/td]
+
+[/tr]
+
+[/table]
+
+[h2]Maintenance Light Patterns[/h2]
+
+[hr][/hr]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b] LED Pattern [/b][/td]
+[td][b]Meaning[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/5a3b42abf42edc003d746790ca35984015715255.gif[/img][/td]
+[td]
+Light Bar: White, blinking
+Indicator LED: White, solid
+
+BIOS recovery in progress.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/68c71e7c375661f2c5df9e8e08a2fd954533a9ce.gif[/img][/td]
+[td]
+Light Bar: Blue (default color), progressing from left to right
+Indicator LED: Blue, solid
+
+BIOS update in progress. The filled portion of the light bar represents the approximate completion percentage of the update.[/td]
+
+[/tr]
+
+[/table]
+
+[h2]Error Light Patterns[/h2]
+
+[hr][/hr]
+
+[section style=warning]The following light patterns are indicative of an error state. Please open a ticket with Steam Support and describe which pattern your Machine is displaying.
+[/section]
+
+[tr]
+
+[td][b] LED Pattern [/b][/td]
+[td][b]Meaning[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/80db45a1f9ff8e89a5326f0defc89f59574982bf.png[/img][/td]
+[td]
+Light Bar: Red, solid
+Indicator LED: Red, solid
+
+Overheating. CPU temp > 95C and/or GPU temp > 90C.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/3f7f27afff70108458c26d9a1224aadfc51d18e6.gif[/img][/td]
+[td]
+Light Bar: Red, fourth quadrant breathing
+Indicator LED: Red, solid
+
+System cannot detect memory (RAM).[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/450e58687ec76b62d04951a551c23f331c512941.gif[/img][/td]
+[td]
+Light Bar: Red, right half breathing
+Indicator LED: Red, solid
+
+System detects a GPU failure.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/fca9a349e8aaafd14b12750ebcca6f53cf11bc7d.gif[/img][/td]
+[td]
+Light Bar: Red, second quadrant breathing
+Indicator LED: Red, solid
+
+System cannot detect SSD.[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/1967a05c0434db63abd055344b8d44934eea3f7a.gif[/img][/td]
+[td]
+Light Bar: Red, left half breathing
+Indicator LED: Red, solid
+
+Memory training has failed.[/td]
+
+[/tr]

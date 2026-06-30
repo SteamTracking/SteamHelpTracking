@@ -37,6 +37,9 @@ Before attempting in-depth troubleshooting or contacting Steam Support, be sure 
 
 [hr][/hr]
 
+[section id=pairing]
+[/section]
+
 [h1]Pairing and Connectivity[/h1]
 There are three different ways to connect your Steam Controller with your gaming devices. Refer below for information about each mode and how to switch between them.
 

@@ -1,0 +1,89 @@
+[h1]Troubleshooting USB Connection and Contention Issues[/h1]
+
+This article explains a class of USB connection issues that can affect devices connected over USB. While it is commonly described as a USB "bandwidth" issue, it is more accurately a USB scheduling or contention issue. The troubleshooting below can help determine whether this is the cause of the behavior you're seeing.
+
+[h2]Quick Links[/h2]
+
+[list]
+
+[*][url=#symptoms][b]Common symptoms[/b][/url]
+
+[*][url=#troubleshooting][b]Troubleshooting[/b][/url]
+
+[*][url=#puck][b]Steam Controller Puck-specific information[/b][/url]
+
+[*][url=#technical][b]Technical deep dive[/b][/url]
+
+[/list]
+
+[url id=symptoms][/url]
+
+[h2]Common symptoms[/h2]
+
+You may be experiencing this issue if a USB device (for example, a Steam Controller Puck) behaves differently depending on which USB port it is connected to, or if it works correctly on one computer but not another.
+
+Other symptoms may include:
+
+[list]
+
+[*]The device intermittently disconnects.
+
+[*]The device fails to connect reliably.
+
+[*]Performance, responsiveness, or latency changes depending on the USB port being used.
+
+[*]The issue changes after connecting or disconnecting other USB devices.
+
+[/list]
+
+[url id=troubleshooting][/url]
+
+[h2]Troubleshooting[/h2]
+
+If this sounds like something you may be encountering, try the following:
+
+[olist]
+
+[*]Try a different USB port on your computer.
+
+[*]If another USB port is not available, connect the USB device to a USB hub. While this may not seem intuitive, it helps determine whether the issue is related to USB scheduling.
+
+[*]Disconnect as many other USB devices as practical and test again.
+
+[*]If that resolves the issue, reconnect the other USB devices one at a time to identify which device is contributing to the contention.
+
+[*]If possible, test the USB device on another computer to determine whether the behavior follows the device or remains with the original system.
+
+[/olist]
+
+Devices that are more likely to contribute to USB contention include:
+
+[list]
+
+[*]USB audio devices (gaming headsets, DACs, sound cards)
+
+[*]High-performance or high polling rate gaming peripherals
+
+[*]Additional Steam Controller Pucks
+
+[*]Other wireless USB adapters or dongles
+
+[/list]
+
+Moving both the affected USB device and other USB devices to different USB ports may resolve the issue.
+
+[url id=puck][/url]
+
+[h2]Steam Controller Puck-specific information[/h2]
+
+The Steam Controller Puck is more likely than many USB devices to expose USB scheduling or contention issues because it supports up to four controllers simultaneously using a low-latency wireless connection.
+
+As a result, some USB controllers or USB hubs may experience scheduling contention when other Full-Speed USB devices are connected to the same USB controller or hub.
+
+Changing USB ports, using a different hub, or rearranging other USB devices can change how devices are grouped internally, which is why these troubleshooting steps often resolve the issue.
+
+[url id=technical][/url]
+
+[h2]Technical deep dive[/h2]
+
+If you're interested in learning more about how USB scheduling works, including Transaction Translators (STT vs. MTT), USB device speeds, and how to view your USB topology on Windows or SteamOS, see our [url=TECHNICAL ARTICLE HERE]USB Scheduling and Transaction Translator Deep Dive[/url].
