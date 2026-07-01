@@ -74,7 +74,7 @@ On [b]Steam Machine[/b]:
 
 The recovery menu will look something like below:
 
-[img]{STEAM_CLAN_IMAGE}/39983882/8b48a8e5891c0ead82a5b63b9a6b6c66e8794804.png[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/4df13757ed5b2d5a7804ee9dbe83e6fcd79d62f5.png[/img]
 
 From this menu you would choose the second option from the top that says "Previous B"
 
@@ -88,7 +88,7 @@ To roll back to the previous OS, follow the instructions above for your device t
 
 The recovery menu will look something like below:
 
-[img]{STEAM_CLAN_IMAGE}/39983882/8b48a8e5891c0ead82a5b63b9a6b6c66e8794804.png[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/4df13757ed5b2d5a7804ee9dbe83e6fcd79d62f5.png[/img]
 
 From this menu you can choose "ERASE USER DATA FROM DECK". This will erase any local user data.
 
