@@ -13,7 +13,7 @@ This article includes instructions for [b]installing, re-imaging, or repairing S
 
 You might need to do this if you would like to install SteamOS on your device, have installed another OS and would like to get back to SteamOS, or are experiencing other breaking issues. For other recovery and troubleshooting options, visit [url=https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3]SteamOS Recovery and Troubleshooting.[/url]
 
-Currently, the only devices officially 'Powered by SteamOS' are Steam Deck, Steam Machine and Legion Go S. We are working on broadening support, and with the recent updates to Steam and SteamOS 3.8, compatibility with other AMD powered PCs (handhelds and desktops) has been improved.
+Currently, the only devices officially "Powered by SteamOS" are Steam Deck, Steam Machine and Legion Go S. We are working on broadening support, and with the recent updates to Steam and SteamOS 3.8, compatibility with other AMD powered PCs (handhelds and desktops) has been improved.
 
 [table noborder=1 equalcells=1]
 
@@ -39,6 +39,13 @@ AMD discrete GPUs[/td]
 [/tr]
 
 [/table]
+[url id=support][/url]
+
+[h2]Support for SteamOS installed on a PC[/h2]
+
+SteamOS can be installed on additional AMD-powered devices beyond those listed above.
+
+If you encounter issues while using SteamOS on a PC, we recommend reporting the issue in the [url=https://github.com/valvesoftware/steamos]SteamOS GitHub[/url], where the developers actively track compatibility issues, bug reports, and feedback. Steam Support may have limited ability to troubleshoot issues that are specific to hardware outside of the officially Powered by SteamOS devices.
 
 [url id=install][/url]
 
