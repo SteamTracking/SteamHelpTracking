@@ -143,6 +143,8 @@ The USB-A ports in the front of the Machine are USB 3.2 Gen 1, and the ports in 
 
 The USB-C port in back utilizes a separate bus, so utilizing it when possible can help minimize bandwidth usage with multiple USB devices connected.
 
+If your USB device behaves differently depending on which USB port it is connected to, works on one computer but not another, or disconnects intermittently, see our [url=https://help.steampowered.com/en/faqs/view/0EAC-1316-D74B-6E04]USB Connection and Contention Issues[/url] article for additional troubleshooting.
+
 [section id=stor]
 [/section]
 

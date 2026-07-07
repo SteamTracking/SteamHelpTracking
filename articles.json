@@ -320,8 +320,8 @@
     "1261020704505444298": {
         "title": "Steam Machine - Feature & Troubleshooting guide",
         "url_code": "1180-0BA6-4A75-B7CA",
-        "version": 3,
-        "timestamp": "2026-06-29 19:11:41"
+        "version": 4,
+        "timestamp": "2026-07-06 21:24:49"
     },
     "1281012404870241244": {
         "title": "Third-Party Game Support",
@@ -1854,10 +1854,10 @@
         "timestamp": "2021-08-28 00:52:48"
     },
     "6999135664717675176": {
-        "title": "Steam Deck - Windows Resources",
+        "title": "Steam Hardware - Windows Resources",
         "url_code": "6121-ECCD-D643-BAA8",
-        "version": 24,
-        "timestamp": "2024-11-11 19:05:12"
+        "version": 25,
+        "timestamp": "2026-07-06 23:46:55"
     },
     "7050570575392147956": {
         "title": "SteamVR Troubleshooting (Index)",
