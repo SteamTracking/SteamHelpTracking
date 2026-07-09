@@ -42,9 +42,9 @@ Note: USB devices connected while sleeping cannot wake the steam machine. Device
 
 [tr]
 
-[td][img]{STEAM_CLAN_IMAGE}/39983882/02ef09ef98de55af50572e083d4f34f04a6070a8.gif[/img][/td]
+[td][img]{STEAM_CLAN_IMAGE}/39983882/78d90686f19430e08e5f9d2557af211a2b391f58.gif[/img][/td]
 [td]
-Light Bar: White, breathing
+Light Bar: Blue, breathing
 Indicator LED: White, solid
 
 Steam Machine is booting.[/td]
