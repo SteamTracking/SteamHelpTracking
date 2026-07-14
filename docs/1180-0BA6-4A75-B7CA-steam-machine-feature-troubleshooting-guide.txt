@@ -116,7 +116,45 @@ If you're experiencing latency or other performance issues with your Bluetooth d
 [h1]External Displays[/h1]
 Steam Machine supports both HDMI 2.0 and DisplayPort 1.4. Multiple displays can be connected, but Gaming Mode currently only supports one display at a time. While DisplayPort can be used as the sole video output, HDMI is the default for Gaming Mode if connected.
 
+[h4]Resolution[/h4]
+
 1080p is the system default game resolution on Steam Machine (labeled "Default" in the Display dropdown menu) to ensure a good gameplay experience out of the box, and is the resolution we use for Steam Machine Verified testing. Players can change this at a global level in Settings > Display, or on a per-game basis in game settings. Performance may vary depending on each game's default settings.
+
+[h4]Picture quality[/h4]
+
+Steps to achieve your desired picture quality can vary a lot based on your Steam Machine settings, the display you're using, and the individual game you're plaing.
+
+In general, on the Steam Machine, you can use the options in Settings > Display > Advanced to:
+
+[list]
+
+[*]Enable HDR
+
+[*]Adjust SDR content brightness
+
+[*]Use native color temperature
+
+[*]Adjust RGB output range
+
+[/list]
+
+On you display, you can look for and adjust settings like:
+
+[list]
+
+[*]HDMI format
+
+[*]HDMI color depth
+
+[*]RGB range and black level
+
+[*]Any available image processing, enhancement, or "AI" picture features
+
+[/list]
+
+Many individual games also provide their own HDR calibration options and other settings that can significantly effect the final quality.
+
+[h4]Troubleshooting[/h4]
 
 If you're experiencing display issues, try the following:
 

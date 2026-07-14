@@ -133,7 +133,7 @@ BIOS update in progress. The filled portion of the light bar represents the appr
 Light Bar: Red, solid
 Indicator LED: Red, solid
 
-Overheating. CPU temp > 95C and/or GPU temp > 90C.[/td]
+Overheating. CPU temp > 100C and/or GPU temp > 100C.[/td]
 
 [/tr]
 

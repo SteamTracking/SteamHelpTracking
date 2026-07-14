@@ -210,4 +210,4 @@ Valve is not responsible for replacing or servicing screws or other components d
 [hr][/hr]
 
 [h1]Contact Steam Support[/h1]
-Unable to resolve your issue? [url=https://help.steampowered.com/en/wizard/HelpWithSteamDeck]Open a ticket with Steam Support[/url].
+Unable to resolve your issue using the information provided here? [url=https://help.steampowered.com/en/wizard/HelpWithSteamDeck]Open a ticket with Steam Support[/url].
