@@ -47,7 +47,7 @@ Note: USB devices connected while sleeping cannot wake the steam machine. Device
 Light Bar: Blue, breathing
 Indicator LED: White, solid
 
-Steam Machine is booting.[/td]
+Steam Machine is booting. Waiting for Steam to configure the LEDs. For Steam Machine to launch successfully in GameScope a display must be detected. Note: on Windows or OS other than SteamOS, the LED will continue to breathe unless a BIOS setting is changed.[/td]
 
 [/tr]
 
@@ -58,7 +58,7 @@ Steam Machine is booting.[/td]
 Light Bar: Blue (default color), solid
 Indicator LED: White, solid
 
-Steam Machine is on and has completed booting. This Light Bar can be configured in your Machine's settings > customization to be a different color or brightness. The default is depicted here.[/td]
+Steam Machine is on and has completed booting, Steam is open. This Light Bar can be configured in your Machine's settings > customization to be a different color or brightness. The default is depicted here.[/td]
 
 [/tr]
 

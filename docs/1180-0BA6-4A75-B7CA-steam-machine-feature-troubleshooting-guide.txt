@@ -171,6 +171,8 @@ If you're experiencing display issues, try the following:
 [*]Test with other display cables and if available, another display
 
 [*]If you're using a dock, receiver, soundbar, switch, or adapter, connect the Machine directly to the display
+
+[*]DisplayPort to HDMI connections require an [b]active[/b] adapter or cable. Passive adapters and cables are not supported.
 [/list]
 
 [section id=usb]
