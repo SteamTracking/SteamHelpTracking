@@ -10,6 +10,8 @@ This article explains a class of USB connection issues that can affect devices c
 
 [*][url=#troubleshooting][b]Troubleshooting[/b][/url]
 
+[*][url=#machine][b]Steam Machine Port Layout[/b][/url]
+
 [*][url=#puck][b]Steam Controller Puck-specific information[/b][/url]
 
 [*][url=#technical][b]Technical deep dive[/b][/url]
@@ -72,6 +74,71 @@ Devices that are more likely to contribute to USB contention include:
 
 Moving both the affected USB device and other USB devices to different USB ports may resolve the issue.
 
+[url id=machine][/url]
+
+[h2]Steam Machine Port Layout[/h2]
+
+Some ports on the Steam machine share resources with internal devices. In the table below each row is a separate Bus with its own dedicated bandwidth. Rows with only one port on them are dedicated. Rows with multiple port numbers or multiple internal devices share bandwidth. Here is how those are allocated.
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]External Connectors[/b][/td]
+[td][b]Internal Devices[/b][/td]
+
+[/tr]
+
+[tr]
+
+[td]1 (USB 2/3)
+[/td]
+[td]None[/td]
+
+[/tr]
+
+[tr]
+
+[td]3 (USB 2/3)
+[/td]
+[td]None[/td]
+
+[/tr]
+
+[tr]
+
+[td]4 (USB 2)
+[/td]
+[td]None[/td]
+
+[/tr]
+
+[tr]
+
+[td]2 (USB 2/3), 5 (USB 2)
+[/td]
+[td]Internal Steam Controller Puck,
+Bluetooth Radio,
+uSD card reader
+[/td]
+
+[/tr]
+
+[/table]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td]
+[img]{STEAM_CLAN_IMAGE}/39983882/ad8a68302dd397a2572cbf38f6665449dd0e01a9.png[/img]
+[/td]
+[td]
+[img]{STEAM_CLAN_IMAGE}/39983882/7a4bfcbcd3a9af413319867eda3d361f7a13b28b.png[/img]
+[/td]
+
+[/tr]
+
+[/table]
 [url id=puck][/url]
 
 [h2]Steam Controller Puck-specific information[/h2]
