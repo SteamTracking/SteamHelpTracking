@@ -191,7 +191,7 @@ The Steam Controller features an LED which will communicate various states the c
 [tr]
 
 [td][img]{STEAM_CLAN_IMAGE}/39983882/5bf147df8057e35e6d92127cad507e45caf6fcb3.gif[/img][/td]
-[td]Orange, breathing: Not connected but charging. This can happen over USB or puck. It tells you the controller isn't sending inputs and the battery isn't full. It will turn off when done charging.
+[td]Orange, breathing: Not connected but charging. This can happen over USB or puck. It tells you the controller isn't sending inputs and the battery isn't full.
 [/td]
 
 [/tr]
