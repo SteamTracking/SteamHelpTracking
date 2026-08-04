@@ -198,6 +198,13 @@ The Steam Controller features an LED which will communicate various states the c
 
 [tr]
 
+[td][img]{STEAM_CLAN_IMAGE}/39983882/c9c8f31a6e89a6450cfd4fdcca685133be771be4.png[/img][/td]
+[td]Orange, solid: The controller is fully charged while powered off. The LED will remain solid orange until the controller is unplugged or powered on.[/td]
+
+[/tr]
+
+[tr]
+
 [td][img]{STEAM_CLAN_IMAGE}/39983882/9433fe88497124d008b479582a12ba3a25f4a7d3.gif[/img][/td]
 [td]One time white, double-pulse after pressing the Steam button: The controller is in backpack mode.
 
