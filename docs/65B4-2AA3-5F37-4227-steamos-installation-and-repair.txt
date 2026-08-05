@@ -77,7 +77,7 @@ If you encounter issues while using SteamOS on a PC, we recommend reporting the 
 
 [*] On a [b]Steam Deck[/b], hold 'Volume Up' and click the Power Button - when you hear the chime, let go of the Volume Up button, and you'll be booted into the Boot Menu. Use the dpad and A button to select the Boot Manager.
 
-[*] On a [b]Steam Machine[/b], power it on and hit the "Esc" key on your wired keyboard few times during boot to enter the BIOS.
+[*] On a [b]Steam Machine[/b], power it on and hit the "Esc" key on your keyboard few times during boot to enter the BIOS. (Note: wired keyboard recommended if available, if not, most wireless keyboards should work too)
 
 [*] For [b]other hardware[/b], follow the instructions for your specific device to get to the Boot Menu. You may need to disable Secure Boot in order to boot from a USB drive. [url=#secureboot]Learn more here[/url].
 
