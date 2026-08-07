@@ -2,6 +2,127 @@
 
 The Steam Controller features an LED which will communicate various states the controller is in. The table below can serve as a helpful reference.
 
+For the Steam controller we have attempted to make a consistent users experience. Where color represents how the controller is connected, and pattern indicates what the controller is doing. This is largely consistent with the exception of Red. Red is used to communicate something not normal (low battery, firmware update ETC)
+
+[h4]Color Meanings[/h4]
+
+[table noborder=1]
+
+[tr]
+
+[td][b]Color[/b]
+[/td]
+[td][b]Meaning[/b]
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]White
+[/td]
+[td]Wirelessly connected through the Steam Controller Puck or the Steam Machine's Steam Controller Wireless adapter.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Blue
+[/td]
+[td]Wirelessly connected via Bluetooth
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Green
+[/td]
+[td]Wired connection via USB
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Orange
+[/td]
+[td]Not actively communicating, Typically used for charging only scenarios
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Red
+[/td]
+[td]Software Update mode
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Dark Red
+[/td]
+[td]Low battery  [/td]
+
+[/tr]
+
+[/table]
+
+[h4]Pattern Meanings[/h4]
+
+[table noborder=1]
+
+[tr]
+
+[td][b]Pattern[/b]
+[/td]
+[td][b]Meaning[/b]
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Solid
+[/td]
+[td]The connection is working as expected, No charging is happening.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Breathing (or ramping)
+[/td]
+[td]Charging, The controller is connected to a power source and is actively charging the battery.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Flashing 2x per second
+[/td]
+[td]Looking for the connection type of the displayed color. Note, this happens during firmware updates when we are looking for the USB to be connected. Green blinking means connect via USB.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Rapid flash
+[/td]
+[td]This occurs in blue tooth when pairing(blue), or when booting if the controller is in backpack mode (white), or if the battery is too dead to boot the controller (red)
+[/td]
+
+[/tr]
+
+[/table]
+
 [h2]Puck Connection[/h2]
 
 [hr][/hr]
