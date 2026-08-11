@@ -154,6 +154,19 @@ On you display, you can look for and adjust settings like:
 
 Many individual games also provide their own HDR calibration options and other settings that can significantly effect the final quality.
 
+[h4]HDMI CEC and sleep/wake[/h4]
+
+If you want your TV to turn on when the Steam Machine resumes from sleep:
+
+[list]
+
+[*]The TV must be connected through HDMI and have HDMI CEC enabled.
+
+[*]On the Steam Machine, go to Settings > Power > HDMI CEC and enable "Turn on TV when resuming from sleep".
+[/list]
+
+A Steam Controller can wake the Machine from sleep when connected through the Machine's internal wireless adapter or an external Steam Controller Puck. A Bluetooth gaming controller connecting over Bluetooth can also wake the Machine from sleep.
+
 [h4]Troubleshooting[/h4]
 
 If you're experiencing display issues, try the following:
