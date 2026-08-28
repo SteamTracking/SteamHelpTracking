@@ -1,8 +1,8 @@
-[h1]CS:GO - Play on worldwide servers from China with a worldwide license[/h1]
+[h1]CS2 - Play on worldwide servers from China with a worldwide license[/h1]
 
-[h2]How can I play Counter-Strike: Global Offensive in China if I own a worldwide license?[/h2]
+[h2]How can I play Counter-Strike 2 in China if I own a worldwide license?[/h2]
 
-If you have a worldwide license for CS:GO on your account and wish to connect to worldwide servers outside of China (through Steam), you may do so by adding the following launch option under game properties:
+If you have a worldwide license for CS2 on your account and wish to connect to worldwide servers outside of China (through Steam), you may do so by adding the following launch option under game properties:
 
 [i]-worldwide[/i]
 
