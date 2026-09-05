@@ -1,0 +1,63 @@
+[h1]How Can I Contact Steam Support Without Access to a Steam Account?[/h1]
+
+[section style=important]
+
+[h3]Steam Support Security[/h3]
+
+Do not share the link needed to access a Steam Support ticket with anyone else. If you provide someone else with that link, they can read, reply to, or close your request.
+
+Before contacting Steam via email, it's a good idea to make sure your email account is secure.
+[/section]
+
+[h1]Contacting Steam Support Using Email [/h1]
+When possible, you should submit your message to Steam Support while logged in to your Steam account. If needed, you can contact Steam Support using your email address. This is intended for account recovery purposes.
+
+The Steam Support Help Site at https://help.steampowered.com includes the [b][url=https://help.steampowered.com/en/wizard/HelpWithLogin]Help, I can't sign in[/url][/b] option. This is only available if you are not currently signed in to a Steam account.
+
+Once you've selected [url=https://help.steampowered.com/en/wizard/HelpWithLogin]Help, I can't sign in[/url], go through the account recovery process by selecting the most appropriate option on each page. If you're not able to self-recover, you will be presented with a Help Request submission form.
+
+[h1]Step-By-Step Instructions[/h1]
+If you're having trouble navigating through the recovery process, the following step-by-step instructions may be used to ensure you can submit a request to Steam.
+
+Note: This process is intended to show a path to submit a account recovery request to Steam Support. If there are more applicable selections at any step, it's recommended you select those instead.
+
+[olist]
+
+[*]Go to https://help.steampowered.com/
+
+[*]Select [b][url=https://help.steampowered.com/en/wizard/HelpWithLogin]Help, I can't sign in[/url][/b]
+
+[*]Select [b]My Steam Account was stolen and I need help recovering it[/b]
+
+[*]Select [b]Reset my password[/b]
+
+[*]Enter an email address into the search box
+
+[*]Complete the "I am human" verification prompt
+
+[*]Select [b]Search[/b]
+
+[*]Select [b]I no longer have access to this email address or did not receive a code[/b]
+
+[*]Fill out the Help Request submission form and select [b]Send[/b]
+[/olist]
+
+[b]Filling out the Your current email address (we'll respond to you here) field[/b]
+
+[list]
+
+[*]If you're trying to recover an account and have access to its email address, enter that email address.
+
+[*]If you're trying to recover an account and don't have access to its email address, enter an address you know you can access.
+
+[/list]
+
+[h1]Error Message: An open help request already exists for this email address.[/h1]
+If you are shown the message below, it means you already have a help request open from the email address you've entered into the [b]Your current email address[/b] field:
+
+[section style=important]An open help request already exists for this email address. A duplicate request cannot be created.
+[/section]
+
+If you still have any emails from Steam Support notifying you of updates to that open request, you can use the link provided in that email to update or close the request.
+
+If you irrecoverably deleted all of the emails containing links offering access to the help request, you will either need to wait for the help request to expire and close naturally (14 days after Steam Support's last response), or use an alternate email address to contact Steam Support.
