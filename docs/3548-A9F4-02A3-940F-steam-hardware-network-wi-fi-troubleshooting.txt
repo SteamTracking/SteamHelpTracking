@@ -1,4 +1,4 @@
-[h1]Steam Deck - Network + WiFi Troubleshooting[/h1]
+[h1]Steam Hardware - Network + Wi-Fi Troubleshooting[/h1]
 
 [list]
 
@@ -12,15 +12,15 @@
 
 [h3]General Troubleshooting[/h3]
 
-Please see the sections below to help diagnose network issues on your Steam Deck:
+Please see the sections below to help diagnose network issues with your Steam Deck, Steam Machine, or Steam Frame:
 
 [h4]Network Connectivity[/h4]
 
 [list]
 
-[*][b]Authentication protocols[/b] - We're aware of potential issues with connectivity on Steam Deck when using PEAP or WEP authentication. We recommend testing with a different protocol if possible.
+[*][b]Authentication protocols[/b] - We're aware of potential issues with connectivity when using PEAP or WEP authentication. We recommend testing with a different protocol if possible.
 
-[*][b]WiFi frequency[/b] - If you have both a 5GHz and 2.4GHz connection available on your network, we recommend trying both to see if the issue you're experiencing may be alleviated on a different band.
+[*][b]WiFi frequency[/b] - If you have another connection available on your network (6GHz, 5GHz, or 2,4GHz), we recommend trying both to see if the issue you're experiencing may be alleviated on a different band.
 
 [*][b]Router troubleshooting[/b] - You can check our [url=https://support.steampowered.com/kb_article.php?ref=6776-MYXU-0480]Using a Router with Steam[/url] article for tips on isolating problems with your router.
 
@@ -32,7 +32,7 @@ Please see the sections below to help diagnose network issues on your Steam Deck
 
 [*][b]Steam server status[/b] - Please check the [url=https://store.steampowered.com/stats/]Steam Server Status page[/url] to ensure the issue which you are encountering is [b]not[/b] related to system-wide downtime. If you encounter any timeout errors when attempting to access Steam sites, it is very likely that there is a system-wide issue and Steam will not be accessible until the issue is resolved.
 
-[*][b]Local interference[/b] - Wireless and powerline connections can cause intermittent failures due to interference. If possible, test Steam with a direct wired connection to determine if this is a problem (you'll need additional hardware to connect from USB-C to ethernet). An Internet speed test may also help you identify problems related to local link quality.
+[*][b]Local interference[/b] - Wireless and powerline connections can cause intermittent failures due to interference. If possible, test Steam with a direct wired connection to determine if this is a problem (you'll need additional hardware to connect from USB-C to ethernet on Steam Deck). An Internet speed test may also help you identify problems related to local link quality.
 
 [/list]
 

@@ -1,0 +1,235 @@
+[h1]Reference - Steam Frame LEDs[/h1]
+
+The Steam Frame, Steam Frame Wireless Adapter, and Steam Frame controllers use their respective LEDs to communicate what it happening operationally on the respective devices. This page is to help you visually recognize the LED conditions and diagnose what is happening on your devices.
+
+[h2] Steam Frame [/h2]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED Pattern[/b]
+[/td]
+[td][b]Meaning[/b]
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/67f314688b5055d9e01d3a04f1037ffeea985f77.png[/img]
+[/td]
+[td]White, solid
+
+Frame is powered on.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/733faa13a7541ddd8493b59015241480cea381a0.png[/img]
+[/td]
+[td]Green, solid, dim
+
+Frame is fully charged.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/df14ec182fa7ff64325d12618c4dfd1dca7ed330.png[/img]
+[/td]
+[td]White, solid, dim
+
+Frame is charging.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/8f7d17b8570e40fc031e0d7ea781ada18b9d0495.png[/img]
+[/td]
+[td]Yellow, solid
+
+Frame is charging slowly. The power source for the Steam Frame is providing limited power.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/7543db4aa9b826b76321280fe4fe2072eb33383b.gif[/img]
+[/td]
+[td]White, bright solid, then dim solid
+
+The user has pressed the aux button to check, and Steam Frame is charging.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/c9180c735bdfb37f633b41f794e33f9ab436d630.gif[/img]
+[/td]
+[td]Green, bright solid, then dim solid
+
+The user has pressed aux button and Steam Frame is fully charged
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/e4c8943803ac7aadd75b2fb362256c1e5582d29c.gif[/img]
+[/td]
+[td]Quick Blink Red, then off
+
+Steam Frame's battery is too low to boot.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/007b0174fbb5a79720a888d9777718125a5cfd90.png[/img]
+[/td]
+[td]Purple, solid
+
+Steam Frame is in bootloader.
+[/td]
+
+[/tr]
+
+[/table]
+
+[h2] Steam Frame Controllers [/h2]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED Pattern[/b]
+[/td]
+[td][b]Meaning[/b]
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/e72cd3f7e378256055724db51e6bd98fc11dac4b.png[/img]
+[/td]
+[td]White, solid
+
+Connected to Steam Frame
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/412e6b19ad3de71cc40518204ce419771b10ac6f.gif[/img]
+[/td]
+[td]White, breathing
+
+Connecting to steam Frame
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/bdabaa705bf7c7e46136ef546a7b676e0ebcca39.gif[/img]
+[/td]
+[td]White, rapid blinking
+
+Waiting to pair to a Steam Frame. This pairing state can be activated by holding down Steam + Menu (right controller) or Steam + View (left controller).
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/5bc99bba2a05e1776f6828213b228942706aadbf.gif[/img]
+[/td]
+[td]White, slow blinking
+
+Steam Frame Controller is currently updating.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/e2f411277f5811a0ff796b2d3f6530b87849935f.png[/img]
+[/td]
+[td]Red, solid
+
+Low Battery, Note: not all batteries will provide the same user experience. Some rechargeable Lithium batteries do not communicate their state of charge until they turn off. This is tuned for alkaline battery discharge curves.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/e742ed5ee0411825f7ebc05f59406c429dd79ada.gif[/img]
+[/td]
+[td]Red, blinking
+
+Battery is too low to boot.
+[/td]
+
+[/tr]
+
+[/table]
+
+[h2] Steam Frame Wireless Adapter[/h2]
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED Pattern[/b]
+[/td]
+[td][b]Meaning[/b]
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/086a6cce37a6ef333c6173053df86e9da79bfaf0.gif[/img]
+[/td]
+[td]Green, blinking
+
+Steam has not taken control of the wireless adapter. The OS is in control of the LED.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/94d99884a94c4ba923c64d0a48f11a625cffd14b.gif[/img]
+[/td]
+[td]White, slow blinking
+
+Steam is attempting to connect to a Steam Frame, no connection has been established yet.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/347acfb3fbc6e0b0d0ffcfc0546fcb9fd193ab09.png[/img]
+[/td]
+[td]White, solid
+
+Steam Frame is connected to the host. This does not mean streaming is started, only that the connection is available to be used for streaming.
+[/td]
+
+[/tr]
+
+[/table]

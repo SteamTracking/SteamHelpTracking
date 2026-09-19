@@ -47,7 +47,7 @@ SteamOS has the ability to recover to a last known good version of the Operating
 
 To roll back to the previous OS, see the instructions below:
 
-[b]On Steam Deck[/b]:
+On [b]Steam Deck[/b]:
 
 [olist]
 
@@ -70,6 +70,17 @@ On [b]Steam Machine[/b]:
 
 [*]Press the power button when the Indicator LED displays [b]yellow[/b].
 
+[/olist]
+
+On [b]Steam Frame[/b]:
+
+[olist]
+
+[*]Fully power the unit down by holding the power button for 10 seconds. We recommend to do these steps while the unit is plugged into the power supply.
+
+[*]Hold the AUX button down and press the power button to turn on the device
+
+[*]Continue to hold the AUX button down until you see a menu labeled "SteamOS"
 [/olist]
 
 The recovery menu will look something like below:
@@ -98,6 +109,6 @@ From this menu you can choose "ERASE USER DATA FROM DECK". This will erase any l
 
 If you would like to install SteamOS on your device, have installed another OS and would like to get back to SteamOS, or are experiencing other breaking issues, you can re-image SteamOS onto your device.
 
-Currently, the only devices officially 'Powered by SteamOS' are Steam Deck, Steam Machine, and Legion Go S. We are working on broadening support, and with the recent updates to Steam and SteamOS 3.8, compatibility with other AMD powered PC handhelds has been improved.
+Currently, the only devices officially 'Powered by SteamOS' are Steam Deck, Steam Machine, Steam Frame and Legion Go S. We are working on broadening support, and with the recent updates to Steam and SteamOS 3.8, compatibility with other AMD powered PC handhelds has been improved.
 
 [url=https://help.steampowered.com/en/faqs/view/65B4-2AA3-5F37-4227]You can find more details and full instructions on installing, re-imaging, or repairing SteamOS here.[/url]

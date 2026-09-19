@@ -1,0 +1,296 @@
+[h1]Steam Frame - Feature and Troubleshooting Guide[/h1]
+
+[h3]First steps[/h3]
+Before attempting in-depth troubleshooting or contacting Steam Support, be sure to do the following:
+
+[list]
+
+[*]Install any software or device updates available on Steam Frame under Steam Settings > System > Updates in the VR Dashboard.
+
+[*]If you're streaming from a PC, you should also be sure to update your Steam Client and the SteamVR application.
+
+[*]Restart the devices you're having trouble with to see whether this resolves the issue you're experiencing. If possible, disconnect any unnecessary USB or Bluetooth peripherals while troubleshooting.
+
+[*]Refer to any information in this article that may be relevant to your problem.
+
+[*]Still need help? You can contact Steam Support using the link at the bottom of this page.
+
+[/list]
+
+[hr][/hr]
+
+[h1]Contents[/h1]
+
+[list]
+
+[*][url=#vid]Getting Started[/url]
+
+[*][url=#net]Network[/url]
+
+[*][url=#wir]Wireless Adapter[/url]
+
+[*][url=#prg]Pairing[/url]
+
+[*][url=#ply]Playspaces[/url]
+
+[*][url=#trk]Tracking[/url]
+
+[*][url=#gam]Gameplay[/url]
+
+[*][url=#bat]Charging and Battery Life[/url]
+
+[*][url=#sto]Storage[/url]
+
+[*][url=#led]LED Information[/url]
+
+[*][url=#dsk]Desktop Mode[/url]
+
+[*][url=#os]OS Support[/url]
+
+[*][url=#car]Care and Maintenance[/url]
+
+[*][url=#contact]Contact Steam Support[/url]
+
+[/list]
+
+[section id=vid]
+[/section]
+
+[hr][/hr]
+
+[h1]Getting Started[/h1]
+We've produced a series of informational videos detailing setup, comfort and fit, and basic use for the Steam Frame products.
+
+[url=https://store.steampowered.com/hardware/gettingstarted]Take me to the walkthrough videos![/url]
+
+Steam Frame will help you through the setup process and present a Guided Tour on first startup.
+
+This experience should cover logging into (or creating) your Steam account, pairing the Frame controllers, and getting comfortable navigating the environment in your headset. You'll be playing your favorite games in no time.
+
+If you'd like to view the Guided Tour again, you can replay it from the Help section of the Quick Access Menu (available when hovering over the clock in the VR Dashboard).
+
+[section id=net]
+[/section]
+
+[h1]Network[/h1]
+The Steam Frame uses built-in Wi-Fi 7 for basic connectivity. You'll be asked to connect to your local network during initial setup to log into Steam and download any necessary updates.
+
+To manually connect to a network or view advanced settings, select Steam Settings > Internet from the side menu in the VR Dashboard.
+
+We recommend also using the included wireless adapter with your host PC for streaming, as it will help provide the intended experience.
+
+Check out our [url=https://help.steampowered.com/en/faqs/view/3548-A9F4-02A3-940F]Network + Wi-Fi Troubleshooting article[/url] if you're having trouble with your connection. You can also review the [url=#str]Streaming[/url] section below for more information.
+
+[section id=wir]
+[/section]
+
+[h1]Wireless Adapter[/h1]
+The included plug-and-play 6GHz wireless adapter provides a dedicated link for both VR and non-VR streaming. It allows for a direct, low-latency link between headset and your PC that works together with your local network to provide a great streaming experience.
+
+The wireless adapter performs best when it has a clear line of sight to the headset and is within ~20 feet of your Playspace.
+
+Pairing the Wireless Adapter to your Steam Frame:
+
+[list]
+
+[*]Plug in the wireless adapter to the host PC you intend to use with your Steam Frame.
+
+[*]Walk through the pairing prompts that will appear on your host PC.
+
+[*]If the prompts don't appear, try reconnecting the adapter to an alternative port.
+
+[/list]
+
+If you need to manually pair the adapter to our headset, you can do so from Steam Settings > Remote Play > Wireless Streaming Adapter.
+
+LED references for the Wireless Adapter are available [url=https://help.steampowered.com/faqs/view/4F01-E85C-4977-EA0E]here[/url].
+
+[section id=prg]
+[/section]
+
+[h1]Pairing[/h1]
+[b]Steam Frame Controllers[/b]
+Your Steam Frame controllers should automatically pair with your headset the first time you turn them on. If one or both controllers become unpaired, you can re-pair them with the prompts in Steam Settings -> Controller -> Add Controller.
+
+If you need to navigate the UI without a controller, press the Aux button on the side of the Frame to invoke a cursor that will move with your headset. The Aux button will act as a mouse-click once the cursor is invoked.
+
+[b]Gamepads[/b]
+To pair a gamepad with your Steam Frame, there are guided, visual steps for Steam, Playstation, Xbox, and Switch Pro gamepads found in Steam Settings > Controller > Add Controller.
+
+[b]Other Peripherals[/b]
+For other peripherals you wish to pair, follow your device's manual to learn how to put the device in Bluetooth pairing mode. Then, complete the pairing process on your Steam Frame in Steam Settings > Bluetooth.
+
+[section id=ply]
+[/section]
+
+[h1]Playspaces[/h1]
+A 'Playspace' is an area the user defines as a clear space to play immersive games in. Playspaces can be set up in various shapes and sizes and are intended to represent an area free of other objects or obstacles, so the user can safely move around in the space without any interference.
+
+You can access the Playspace menu from the taskbar in your VR Dashboard to manually setup your Playspace again, adjust the floor height, or recenter to your current position. You can also center your VR Dashboard in a new orientation within your Playspace by holding down the Steam button while facing the direction and angle you'd like it to appear, then releasing the button when the icon shows ready.
+
+Chaperone is the virtual boundary grid that will appear if your Frame or Controllers are nearing the edges of your designated Playspace. You can configure the appearance and boundaries of Chaperone from the VR Dashboard by selecting VR Settings > Play Area > Chaperone Style.
+
+[section id=trk]
+[/section]
+
+[h1]Tracking[/h1]
+
+[h4]General tracking[/h4]
+
+Steam Frame uses a combination of built-in cameras and sensors on the headset and controllers along with IMU motion data for tracking. While momentary occlusion between the headset and controllers shouldn't cause problems, you should avoid coverings or modifications that could obscure built-in sensors or cameras.
+
+Tracking should work great in most indoor environments, but if you are experiencing any problems with tracking accuracy or fidelity, you can start by checking for common sources of interference in or around your playspace and ruling out other common contributors.
+
+[list]
+
+[*]Avoid interrupting line-of-sight between the headset and controllers and remove coverings or modifications that may be obscuring tracking sensors or headset cameras.
+
+[*]Turn off or remove small, bright lights in or around your playspace, such as Christmas lights or high-powered LEDs.
+
+[*]Turn off or remove other sources of IR interference in or around your playspace.
+
+[*]Cover or remove nearby reflective surfaces.
+
+[*]Restart your Steam Frame headset and controllers and the SteamVR application on the host PC if you're streaming.
+
+[*]Try replacing the batteries in your Frame Controllers.
+
+[/list]
+
+[h4]Finger tracking[/h4]
+
+The Frame Controllers use capacitive sensors to track individual finger movement in games and apps that support that feature. Calibration occurs naturally during use and accuracy may improve with adjustments to finger placement and additional playtime.
+
+[h4]Eye tracking[/h4]
+
+Eye tracking is used primarily for foveated rendering, a feature that improves overall performance by concentrating the most rendering power in the specific area you're focusing. It is primarily used during VR gameplay (local or streaming).
+
+[section id=str]
+[/section]
+
+[section id=gam]
+[/section]
+
+[h1]Gameplay[/h1]
+
+[h4]Streaming[/h4]
+
+Game streaming will utilize a combination of the Wireless Adapter and your local Wi-Fi to provide the optimal streaming experience.
+
+Once your Steam Frame is connected to Wi-Fi and paired to the wireless adapter connected to a host PC, you can stream games on the host PC's Library right to your Steam Frame. Simply view your Steam account's Library in the Steam Frame, and choose "Stream from <host PC name>" from the drop-down on the big green button.
+
+For the the best experience, we recommend being within 20 feet of your Wireless Adapter. If you're experiencing issues with streaming performance, such as hitching or lag, our [url=https://help.steampowered.com/en/faqs/view/3548-A9F4-02A3-940F]Network + Wi-Fi Troubleshooting article[/url] is a good first stop.
+
+There are more advanced options you can configure located in the Steam Client > Settings > Remote Play control panel on your host PC and Steam Settings > Remote Play on Steam Frame.
+
+[h4]Standalone play[/h4]
+
+Standalone play requires local installation on the Frame headset, which can be managed from your Library in VR. This enables you to play compatible games without needing a host PC or network connection nearby.
+
+You should be able to view information about expected compatibility for a game from your Library or the game's store page.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/db006fb77d4f1cdbe88e01692a72bf5bd5b597e3.png[/img]
+
+You can also browse Steam Frame Verified games on the curated store page [url=https://store.steampowered.com/greatonframe]over here[/url], where more games are being added all the time.
+
+[section id=bat]
+[/section]
+
+[h1]Charging and Battery Life[/h1]
+The Steam Frame arrives in a battery-saving shipping mode and will need to be plugged into a power source via the USB-C on the rear headstrap before being powered on.
+
+We recommend using a compatible 45W power supply to charge the Frame headset if you have one available. The estimated time for a full recharge is ~1.5 hours. You can also charge via USB using a PC or adapter, but the expected charging increases to 3.5 hours.
+
+Battery life for the Frame headset will be dependent on various system and in-game settings as well as whether you're playing standalone or streaming. There are preset 'Performance' and 'Playtime' modes available in the Performance section of the Quick Access Menu if you'd like an easy way to prioritize power or battery life respectively.
+
+[section id=sto]
+[/section]
+
+[h1]Storage[/h1]
+
+[h4]Internal SSD[/h4]
+
+Your Steam Frame comes with either 256GB or 1TB SSD built-in. You can manage your system storage and any other connected storage from Steam Settings > Storage in the VR Dashboard.
+
+[h4]microSD cards[/h4]
+
+microSD cards will need to be formatted before they can be used with your Steam Frame. The Steam Frame's microSD slot is located underneath the headset's magnetic face gasket, near the brow of the Frame, next to the IPD lock switch.
+
+To format a microSD card, insert it into the slot and go to ***Settings > Storage > select your SD Card and bring up the options menu, then select Format. It may take a few minutes to complete the process.
+
+Any UHS-I (class 3 or better) microSD card is supported. UHS-II and UHS-III cards are expected to work as well, but their higher data transfer speeds are not supported.
+
+If you've previously used a microSD card for Library storage with a Steam Deck or Steam Machine, you should be able to use that card with your Frame to play the installed games without performing any additional steps.
+
+[section id=led]
+[/section]
+
+[h1]LED Information[/h1]
+The Steam Frame, Steam Frame Wireless Adapter, and Steam Frame controllers have status LEDs to indicate device state at a glance. The [url=https://help.steampowered.com/faqs/view/4F01-E85C-4977-EA0E]Steam Frame LEDs reference article[/url] provides a list of these LED states and their meaning.
+
+[section id=dsk]
+[/section]
+
+[h1]Desktop Mode[/h1]
+You can access Desktop Mode from Steam Frame's dashboard menu -> "+" (Launch Program) -> Desktop. This will provide a standard Linux desktop experience. It runs alongside the other games/apps open in Steam Frame. To navigate in the desktop, your Steam Frame controller will act laser pointer (mouse), with triggers acting as a left mouse click, and pushing in on the thumbstick acting as a right-mouse click.
+
+Applications launched from Desktop will create their own icon in your dashboard menu. You can quit these apps from the conventional menus/controls available in the app, or by mousing over the application in the dashboard menu and selecting Close.
+[/list]
+
+[section id=os]
+[/section]
+
+[h1]OS Support[/h1]
+Full support for SteamVR and Steam Frame streaming via the wireless adapter are currently available on Windows only.
+
+SteamVR on Steam Machine and desktop Linux isn't fully supported at this time. While many games may work, you may run into performance or compatibility issues. If you'd like to test streaming from Steam Machine in the current state, we recommend using Steam in Desktop Mode, opting into the SteamVR Beta, and launching SteamVR manually before starting a VR game. Once Steam Frame ships, if you're using the wireless dongle with a Linux PC, you'll also need SteamOS 3.9+, or Linux kernel 7.2+.
+
+We'll be working on expanded support following the launch of the Steam Frame.
+
+[section id=car]
+[/section]
+
+[h1]Care and Maintenance[/h1]
+Tips for keeping your device safe and in good condition.
+
+[h4]Device storage[/h4]
+
+Store your Steam Frame in a cool, dry location when not in use, making sure the lenses are turned away from windows or other bright light sources. Even while indoors, exposure to sunlight can cause permanent damage to the headset's display system.
+
+For longer term storage, we recommend packing your Steam Frame back into the original box for maximum protection.
+
+[h4]Cleaning[/h4]
+
+You can use a small amount of isopropyl alcohol with a dry cloth to disinfect or clean outer surfaces and soft materials. Using water or other cleaning products is not recommended.
+
+Use a dry, clean microfiber cloth for cleaning lenses as necessary.
+
+[h4]Disassembly and Modification[/h4]
+
+The headstrap assembly can be removed from the core module by following the instructions detailed in the 'Installing the Top Strap' video on [url=https://store.steampowered.com/hardware/gettingstarted]our Getting Started page[/url].
+
+We don't recommend opening the core module itself or performing internal modifications - the components are sensitive and any damage that results won't be covered under your product warranty.
+
+[h4]Environmental[/h4]
+
+The Steam Frame's safe storage temperature range is between -20° - +40° C (-4° - +104° F).
+
+The Steam Machine's safe operational ranges are:
+
+[list]
+
+[*]Ambient temperature - 0° - +35° C (+32° - +95° F)
+
+[*]Humidity - up to 85% non-condensing relative humidity
+
+[*]Altitude - up to 3500m
+
+[/list]
+
+[section id=contact]
+[/section]
+
+[hr][/hr]
+
+[h1]Contact Steam Support[/h1]
+Unable to resolve your issue using the information provided here? [url=https://help.steampowered.com/en/wizard/HelpWithSteamFrame]Open a ticket with Steam Support[/url].

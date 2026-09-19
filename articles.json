@@ -482,8 +482,8 @@
     "1977623338980027315": {
         "title": "SteamOS Recovery and Troubleshooting",
         "url_code": "1B71-EDF2-EB6D-2BB3",
-        "version": 17,
-        "timestamp": "2026-06-30 18:08:25"
+        "version": 18,
+        "timestamp": "2026-09-18 19:11:06"
     },
     "2003838845194416172": {
         "title": "Counter-Strike 2 Leaderboards",
@@ -628,6 +628,12 @@
         "url_code": "2542-790F-14F8-D66A",
         "version": 5,
         "timestamp": "2021-08-03 23:30:47"
+    },
+    "2767474540138244187": {
+        "title": "Steam Frame - Feature and Troubleshooting Guide",
+        "url_code": "2668-0B6E-79E0-A85B",
+        "version": 1,
+        "timestamp": "2026-09-18 02:01:06"
     },
     "2769590072922235898": {
         "title": "Dota 2 Workshop - Low Violence Items",
@@ -948,10 +954,10 @@
         "timestamp": "2025-05-01 23:48:06"
     },
     "3839505547814736911": {
-        "title": "Steam Deck - Network + WiFi Troubleshooting",
+        "title": "Steam Hardware - Network + Wi-Fi Troubleshooting",
         "url_code": "3548-A9F4-02A3-940F",
-        "version": 1,
-        "timestamp": "2022-06-16 22:45:15"
+        "version": 2,
+        "timestamp": "2026-09-18 18:18:52"
     },
     "3843832090999931729": {
         "title": "Available disk space decreases every time a game is run",
@@ -1468,6 +1474,12 @@
         "url_code": "4E54-0B96-D0A4-1557",
         "version": 16,
         "timestamp": "2024-01-10 21:15:24"
+    },
+    "5693086887040248334": {
+        "title": "Reference - Steam Frame LEDs",
+        "url_code": "4F01-E85C-4977-EA0E",
+        "version": 2,
+        "timestamp": "2026-09-17 20:55:07"
     },
     "5706435398068383642": {
         "title": "CS2 - In-game Items",
