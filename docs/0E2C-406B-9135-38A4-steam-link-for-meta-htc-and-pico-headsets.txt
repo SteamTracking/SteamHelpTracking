@@ -4,7 +4,7 @@
 
 [h2]Description[/h2]
 
-The Steam Link app streams the games you love in your Steam library directly from your computer to your Meta Quest, or consumer HTC Vive Focus or PICO headset (Business headsets are not officially supported at this time). Using the power of your computer, it delivers a high-fidelity and intuitive way to wirelessly play your favorite games, discuss them with your friends, and access your desktop apps.
+The Steam Link app streams the games you love in your Steam library directly from your computer to your Meta Quest, or consumer HTC Vive Focus or PICO headset (Business headsets are not officially supported at this time). Using the power of your PC, it delivers a high-fidelity and intuitive way to wirelessly play your favorite games, discuss them with your friends, and access your desktop apps.
 
 To download it for free, head to the store in your headset or on your phone.
 
@@ -77,13 +77,13 @@ To download it for free, head to the store in your headset or on your phone.
 
 [olist]
 
-[*]Turn on your home PC, launch Steam, and log in.
+[*]Sign into Steam on your PC.
 
-[*]Ensure your headset is connected to the same network as your host PC.
+[*]Ensure your headset is connected to the same network as your PC.
 
 [*]Download and install the Steam Link app from the store in your headset. You can also download from the store app on your phone (where applicable)
 
-[*]After you’ve installed Steam Link, open it and follow the on-screen instructions for connecting your headset to your home PC.
+[*]After you’ve installed Steam Link, open it and follow the on-screen instructions for connecting your headset to your PC.
 
 [/olist]
 
@@ -93,13 +93,13 @@ For additional support, click the options below or visit the [url=https://steamc
 
 [h4]How can I improve the streaming quality?[/h4]
 
-In our testing, the majority of people have found that switching to a 5GHz network significantly improves the experience.
+In our testing, the majority of people have found that switching to a 5 (or 6) GHz network significantly improves the experience.
 
 You can find out more information about improving wireless streaming  [url=https://support.steampowered.com/kb_article.php?ref=4950-EBNM-7843]here[/url].
 
-[h4]Why does my wi-fi indicator display an exclamation mark?[/h4]
+[h4]Why does my Wi-Fi indicator display an exclamation mark?[/h4]
 
-Your wireless network is on 2.4Ghz and not 5Ghz.
+Your wireless network is on 2.4Ghz and not 5 (or 6) Ghz.
 
 [h4]How do I join the Quest Public Beta Client?[/h4]
 
@@ -107,9 +107,9 @@ To join, you must install Steam Link to your Meta headset, then you can opt into
 
 Note that there is no PICO or HTC Public Beta program available at this time.
 
-[h4]Can I use my Wi-Fi network to connect to my PC and my headset?[/h4]
+[h4]Is it ok to wirelessly connect my PC to the router/internet?[/h4]
 
-Using a wireless connection to your PC is not advised and could cause connectivity failures and other latency issues. We recommend a wired connection to your PC, and a 5GHz WiFi network for your headset is highly recommended.
+Using a wireless connection between your PC and home router is not advised, as this can cause connectivity failures and other latency issues. We recommend a wired connection between your PC and router, and a 5 (or 6) GHz Wi-Fi network for your headset.
 
 [h4]What operating systems can I use for streaming VR?[/h4]
 
@@ -117,7 +117,7 @@ Windows 10 and Windows 11 are fully supported. There is experimental Linux suppo
 
 [h4]Experimental Linux Support[/h4]
 
-Steam Link VR Uses Vulkan Video, and driver support for Vulkan Video is only available in the newest drivers.  Please use NVIDIA drivers 575.64.05 or newer or if AMD, please use Mesa drivers 25.2.2 or newer.
+Steam Link VR uses Vulkan Video, and driver support for Vulkan Video is only available in the newer drivers.  Please use NVIDIA drivers 575.64.05 or newer or if AMD, please use Mesa drivers 25.2.2 or newer.
 
 [h4]Does Steam Link support AMD GPUs for my PC?[/h4]
 
@@ -171,7 +171,7 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]You do not have another wired HMD connected to your PC (If using Controller Wireless Receiver on Index/Vive, DO NOT plug in HDMI/DisplayPort to GPU)
 
-[*]You are on the newest GPU drivers, for NVIDIA there are known issues with driver versions older than 546.29
+[*]You are on recent GPU drivers, for NVIDIA there are known issues with driver versions older than 546.29
 
 [*]Make sure you are not connecting to a "guest" wireless network. For instance, the 'xfinitywifi' SSID of your router. Only connecting to the Wi-Fi SSID associated with your LAN will work.
 
@@ -179,7 +179,7 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]Any default on devices, like "AMD ReLive for VR Redirect" are disabled or removed as they will prevent Steam Link from running in SteamVR.
 
-[*]You are on the newest SteamVR version (Pre-2.2 versions may not function)
+[*]You are on a recent SteamVR version (Pre-2.16 versions may not function)
 
 [*]You have tried disabling mesh features in your router, as sometimes they interfere with Steam Link.
 
@@ -190,9 +190,9 @@ Also, "bind" your headset to the AP you intend to use in the mesh network's admi
 
 [h4]If you are experiencing performance issues:[/h4]
 
-[*]Use only a wired connection, (gigabit min.), between your computer and your router
+[*]Use only a wired connection (gigabit minimum), between your computer and your router
 
-[*]Using a wireless connection to your PC is not advised and could cause connectivity failures and other latency issues
+[*]Using a wireless connection between your PC and router is not advised and can cause connectivity failures and other latency issues
 
 [*]If using screen recording or streaming software like OBS or Discord, make sure to use software encoding inside the software application otherwise it will preempt Steam Link
 
@@ -208,11 +208,11 @@ Also, "bind" your headset to the AP you intend to use in the mesh network's admi
 
 [*]Try changing the channel on your Wi-Fi router
 
-[*]Set your Wi-Fi channel width to 80MHz or 160MHz. Using 20MHz and 40MHz channels may cause problems
+[*]Set your Wi-Fi channel width (on your router) to 80MHz or 160MHz. Using 20MHz and 40MHz channels may cause problems
 
-[*]Try disconnecting all other devices from your router to identify the device that is causing problems
+[*]Try disconnecting all other devices from your router to identify if another device is causing problems
 
-[*]Make sure you are on the newest GPU drivers, for NVIDIA there are known issues with driver versions older than 546.29
+[*]Make sure you are on recent GPU drivers, for NVIDIA there are known issues with driver versions older than 546.29
 
 [*]Make sure your Encode Width is set to <1280 since many headsets cannot decode higher encode resolutions at >90 Hz
 
@@ -308,5 +308,30 @@ Steam Link dynamically selects a bandwidth that favors a smooth, low latency exp
 Manually increasing bandwidth beyond the default may cause jitter and frame drops. Decreasing it may yield a smoother experience but at the cost of more video artifacts.
 
 As the Steam Link team obtains additional data and improves the video encode and decode, we will continue to tune and improve the "Automatic" settings.
+
+[/expand]
+
+[expand type=title title="USB Connectivity"]
+USB connectivity allows a direct wired connection between the headset and the host PC.  It allows for low latency, high quality streaming in situations where wireless usage is not preferable.
+
+[h4]Does my headset support USB?[/h4]
+
+At this time, USB is only supported on Meta headsets and requires Horizon OS v2.5 or later.
+
+When connected to the PC, after starting the Steam Link application on the headset, the headset will automatically create a USB NCM connection.
+
+As more headsets add support for USB connectivity, they should begin working over USB.
+
+[h4]Troubleshooting /  Linux[/h4]
+
+If you plug in your headset via USB and do not see the associated USB icon when streaming, the most common cause is that your computer doesn't properly support "Automatic IPv6 link-local addresses".  [b]Note: This is currently required on ALL Linux distributions[/b]
+
+To work around this issue, you will need to manually configure an IPv4 address.  (Note: Quest users must be on HorizonOS v2.7 or later).
+
+You will need to configure the USB interface on your system to have an IP address of 10.86.13.38/29. (Note: the headset will have an IP address of 10.86.13.37/29).
+
+Example configuration:  PC 10.86.13.38, netmask 255.255.255.248
+
+On the headset, Steam Link will automatically work with either IPv6 or IPv4.
 
 [/expand]

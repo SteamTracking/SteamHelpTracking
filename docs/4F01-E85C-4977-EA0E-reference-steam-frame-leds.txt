@@ -184,6 +184,17 @@ Battery is too low to boot.
 
 [/tr]
 
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/0bc62aeaca964890860e08ec18b8b57e93ae7a65.gif[/img]
+[/td]
+[td]White Blinking Quickly
+
+Identifying controller (accessed via steam controller settings)
+[/td]
+
+[/tr]
+
 [/table]
 
 [h2] Steam Frame Wireless Adapter[/h2]
