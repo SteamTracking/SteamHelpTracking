@@ -13,7 +13,7 @@ This article includes instructions for [b]installing, re-imaging, or repairing S
 
 You might need to do this if you would like to install SteamOS on your device, have installed another OS and would like to get back to SteamOS, or are experiencing other breaking issues. For other recovery and troubleshooting options, visit [url=https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3]SteamOS Recovery and Troubleshooting.[/url]
 
-Currently, the only devices officially "Powered by SteamOS" are Steam Deck, Steam Machine and Legion Go S. We are working on broadening support, and with the recent updates to Steam and SteamOS 3.8, compatibility with other AMD powered PCs (handhelds and desktops) has been improved.
+Currently, the only devices officially "Powered by SteamOS" are Steam Deck, Steam Machine, Steam Frame and Legion Go S. We are working on broadening support, and with the recent updates to Steam and SteamOS 3.8, compatibility with other AMD powered PCs (handhelds and desktops) has been improved.
 
 [table noborder=1 equalcells=1]
 
@@ -28,6 +28,7 @@ Currently, the only devices officially "Powered by SteamOS" are Steam Deck, Stea
 
 [td]Steam Deck
 Steam Machine
+Steam Frame
 Lenovo Legion Go S
 [/td]
 [td]Lenovo Legion Go
@@ -49,11 +50,11 @@ If you encounter issues while using SteamOS on a PC, we recommend reporting the 
 
 [url id=install][/url]
 
-[h2]Installing SteamOS [/h2]
+[h2]Installing SteamOS via USB key [/h2]
 
 [olist]
 
-[*] [b]Download the SteamOS image [url=https://store.steampowered.com/steamos/download/?ver=steamdeck]here (click)[/url].[/b]
+[*] [b]Download the SteamOS image for [url=https://store.steampowered.com/steamos/download/?ver=steamdeck]Deck/Machine/PC[/url] or for [url=https://store.steampowered.com/steamos/download/?ver=steamframe]Frame[/url].[/b]
 
 [*] Prepare a USB key (8GB minimum) with the recovery image:
 
@@ -77,7 +78,9 @@ If you encounter issues while using SteamOS on a PC, we recommend reporting the 
 
 [*] On a [b]Steam Deck[/b], hold 'Volume Up' and click the Power Button - when you hear the chime, let go of the Volume Up button, and you'll be booted into the Boot Menu. Use the dpad and A button to select the Boot Manager.
 
-[*] On a [b]Steam Machine[/b], power it on and hit the "Esc" key on your keyboard few times during boot to enter the BIOS. (Note: wired keyboard recommended if available, if not, most wireless keyboards should work too)
+[*] On a [b]Steam Machine[/b], power it on and hit the "Esc" key on your keyboard few times during boot to enter the BIOS. (Note: wired keyboard recommended if available, if not, most wireless keyboards should work too).
+
+[*] On a [b]Steam Frame[/b], press the Power button while holding the Aux button on the right hand side of the headset.  Keep holding the Aux button until you see the Boot Menu in the headset.
 
 [*] For [b]other hardware[/b], follow the instructions for your specific device to get to the Boot Menu. You may need to disable Secure Boot in order to boot from a USB drive. [url=#secureboot]Learn more here[/url].
 
@@ -87,15 +90,27 @@ If you encounter issues while using SteamOS on a PC, we recommend reporting the 
 
 [list]
 
-[*] On a [b]Steam Deck[/b], navigate to Boot Manager, boot from the 'EFI USB Device' (your USB key)
+[*] On a [b]Steam Deck[/b], navigate to Boot Manager, boot from the 'EFI USB Device' (your USB key).
 
-[*] On a [b]Steam Machine[/b], use a keyboard to navigate these menus, and select Boot Configuration, UEFI (your USB key)
+[*] On a [b]Steam Machine[/b], use a keyboard to navigate these menus, and select Boot Configuration, UEFI (your USB key).
+
+[*] On a [b]Steam Frame[/b], use the Volume Up and Down buttons on the left hand side of the headset to navigate the menu, and the Aux button on the right hand side to select an option.
 
 [/list]
 
 [*] The screen will go dark while it's booting - give it a minute.
 
-[*] Once booted you will be in a desktop environment, you can navigate using trackpad and trigger, or touchscreen (on Deck), or mouse (on Machine).
+[*] Once booted you will be in a desktop environment, you can navigate using a mouse:
+
+[list]
+
+[*] On a [b]Steam Deck[/b], you can use the builtin trackpad/trigger, a connected Steam Controller's trackpad/trigger or a touchscreen.
+
+[*] On a [b]Steam Machine[/b], you can use a connected Steam Controller's trackpad/trigger, or a connected mouse.
+
+[*] On a [b]Steam Frame[/b], you can use the Steam Frame controllers, or your head as a mouse, pressing the Aux button on the right hand side of the device to click.
+
+[/list]
 
 [*] Select the [b]Wipe Device & Install SteamOS[/b] option on the desktop. This will fully wipe your device and install stock SteamOS.
 
@@ -118,6 +133,26 @@ There are three options available in this installation and recovery environment.
 [*] [b]Recovery tools[/b] - This opens a prompt with the ability to make changes to the device's boot partition.
 
 [/list]
+
+[url id=steamframe-qdl][/url]
+
+[h2]Flashing SteamOS over USB (Steam Frame only)[/h2]
+
+Steam Frame supports an alternative method of reinstalling SteamOS.  This method may be slightly faster but will require a Windows or Linux PC with a cable to plug into the Frame's USB-C port.
+
+[olist]
+
+[*] [b]Download the [url=https://store.steampowered.com/steamos/download/?ver=steamframe-qdl]SteamOS QDL distribution[/url][/b].
+
+[*] Extract the files to a temporary folder, then double-click on [b]flash.cmd[/b] if on Windows, [b]flash.sh[/b] if on Linux.  You should see a window that says [b]"Waiting for EDL device"[/b].  On Windows, you may need to enter an Administrator password to install necessary drivers.
+
+[*] Put your Steam Frame into flashing mode by ensuring the unit is fully powered off, waiting 10 seconds, then holding down the Power, Volume Up and Volume Down buttons for 10 seconds.
+
+[*] Connect your Steam Frame to your PC via a USB cable.  The flashing script should immediately recognize the device is in EDL mode and begin flashing it.  If this does not occur, unplug your headset, hold the power button down for 16 seconds to force it off, then try putting it into flashing mode again.
+
+[*] Once the flashing is complete, your headset will automatically reboot.
+
+[/olist]
 
 [url id=secureboot][/url]
 

@@ -235,7 +235,6 @@ The Steam Frame, Steam Frame Wireless Adapter, and Steam Frame controllers have 
 You can access Desktop Mode from Steam Frame's dashboard menu -> "+" (Launch Program) -> Desktop. This will provide a standard Linux desktop experience. It runs alongside the other games/apps open in Steam Frame. To navigate in the desktop, your Steam Frame controller will act laser pointer (mouse), with triggers acting as a left mouse click, and pushing in on the thumbstick acting as a right-mouse click.
 
 Applications launched from Desktop will create their own icon in your dashboard menu. You can quit these apps from the conventional menus/controls available in the app, or by mousing over the application in the dashboard menu and selecting Close.
-[/list]
 
 [section id=os]
 [/section]
