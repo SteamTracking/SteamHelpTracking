@@ -274,7 +274,7 @@ We don't recommend opening the core module itself or performing internal modific
 
 The Steam Frame's safe storage temperature range is between -20° - +40° C (-4° - +104° F).
 
-The Steam Machine's safe operational ranges are:
+The Steam Frame's safe operational ranges are:
 
 [list]
 
