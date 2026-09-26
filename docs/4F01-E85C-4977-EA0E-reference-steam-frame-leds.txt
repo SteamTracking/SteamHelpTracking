@@ -17,7 +17,7 @@ The Steam Frame, Steam Frame Wireless Adapter, and Steam Frame controllers use t
 
 [tr]
 
-[td][img]{STEAM_CLAN_IMAGE}/39983882/67f314688b5055d9e01d3a04f1037ffeea985f77.png[/img]
+[td][img]{STEAM_CLAN_IMAGE}/39983882/bf7b68f84059c84ea346310ff47e5eb6dd1ac5c7.png[/img]
 [/td]
 [td]White, solid
 
@@ -28,7 +28,7 @@ Frame is powered on.
 
 [tr]
 
-[td][img]{STEAM_CLAN_IMAGE}/39983882/733faa13a7541ddd8493b59015241480cea381a0.png[/img]
+[td][img]{STEAM_CLAN_IMAGE}/39983882/9199dcd4f3bcc4b7c2ce48f0e1e7c0cf5e452a6c.png[/img]
 [/td]
 [td]Green, solid, dim
 
@@ -39,7 +39,7 @@ Frame is fully charged.
 
 [tr]
 
-[td][img]{STEAM_CLAN_IMAGE}/39983882/df14ec182fa7ff64325d12618c4dfd1dca7ed330.png[/img]
+[td][img]{STEAM_CLAN_IMAGE}/39983882/455c30fe1f4049b7ec91c243e64176a5d5801439.png[/img]
 [/td]
 [td]White, solid, dim
 
@@ -50,7 +50,7 @@ Frame is charging.
 
 [tr]
 
-[td][img]{STEAM_CLAN_IMAGE}/39983882/8f7d17b8570e40fc031e0d7ea781ada18b9d0495.png[/img]
+[td][img]{STEAM_CLAN_IMAGE}/39983882/220b9df0a77f7f1c67166aac11757dd0ccc89d8d.png[/img]
 [/td]
 [td]Yellow, solid
 
@@ -61,7 +61,7 @@ Frame is charging slowly. The power source for the Steam Frame is providing limi
 
 [tr]
 
-[td][img]{STEAM_CLAN_IMAGE}/39983882/7543db4aa9b826b76321280fe4fe2072eb33383b.gif[/img]
+[td][img]{STEAM_CLAN_IMAGE}/39983882/e53505f96077d88f4c7aa3e36b78a72bbd1a358a.gif[/img]
 [/td]
 [td]White, bright solid, then dim solid
 
@@ -72,7 +72,7 @@ The user has pressed the aux button to check, and Steam Frame is charging.
 
 [tr]
 
-[td][img]{STEAM_CLAN_IMAGE}/39983882/c9180c735bdfb37f633b41f794e33f9ab436d630.gif[/img]
+[td][img]{STEAM_CLAN_IMAGE}/39983882/7a4d16c6b17263299ab791186c51341bf494cf6c.gif[/img]
 [/td]
 [td]Green, bright solid, then dim solid
 
@@ -83,7 +83,7 @@ The user has pressed aux button and Steam Frame is fully charged
 
 [tr]
 
-[td][img]{STEAM_CLAN_IMAGE}/39983882/e4c8943803ac7aadd75b2fb362256c1e5582d29c.gif[/img]
+[td][img]{STEAM_CLAN_IMAGE}/39983882/1037fd32c66a84c4872336e4bbf05a55b4418598.gif[/img]
 [/td]
 [td]Quick Blink Red, then off
 
@@ -94,11 +94,106 @@ Steam Frame's battery is too low to boot.
 
 [tr]
 
-[td][img]{STEAM_CLAN_IMAGE}/39983882/007b0174fbb5a79720a888d9777718125a5cfd90.png[/img]
+[td][img]{STEAM_CLAN_IMAGE}/39983882/5ca2e495e4d036333dd96c4b68b21b58028f4df9.png[/img]
 [/td]
 [td]Purple, solid
 
 Steam Frame is in bootloader.
+[/td]
+
+[/tr]
+
+[/table]
+
+[h3]Button Chords[/h3]
+
+These are button combinations that may help enter various modes
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]Action[/b]
+[/td]
+[td][b]Frame Status[/b]
+[/td]
+[td][b]Result[/b]
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Short Press Power Button
+[/td]
+[td]Device is Off
+[/td]
+[td]Device turns on and boots up.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Short Press Power Button
+[/td]
+[td]Steam is running.
+[/td]
+[td]Device suspends (goes to sleep)
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Short Press Power Button
+[/td]
+[td]Device is in Suspended.
+[/td]
+[td]Device resumes.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Power button held for 2 seconds
+[/td]
+[td]Steam is running
+[/td]
+[td]Power menu pops up to allow the quick selection of desired power action (reboot, suspend, power off)
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Power button pressed for 8 seconds
+[/td]
+[td]device is on
+[/td]
+[td]device will power off, if the device is connected to a USB charger cable, it will begin charging and transition to "Off state charging mode"
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Power button and Volume - (held down for 5 seconds)
+[/td]
+[td]Device is on
+[/td]
+[td]Reboots the device but saves some logs to in case of a crash. This is useful in the case of some freezes to get additional logs.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]hold power button for 8 seconds , then release and press the aux button until a menu comes up
+[/td]
+[td]Off
+[/td]
+[td]Bios menu comes up, used volume - and + buttons to navigate, and aux to select.
 [/td]
 
 [/tr]
