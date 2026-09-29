@@ -36,10 +36,46 @@ Select your Operating System below to learn how to save a screenshot:
 [*]Once it's been added, you'll see the name and size of the attachment [/*]
 
 [/olist]
+Multiple attachments may be added. Make sure to submit your message once you have finished attaching the file(s).
+[/expand]
 
-Multiple attachments may be added.
+[/section]
 
-Make sure to submit your message once you have finished attaching the file(s).
+[section id=SteamOS]
+
+[expand type=title title="SteamOS"]
+
+[h4]Screenshots from Steam Frame[/h4]
+
+[olist]
+
+[*]To take a screenshot on Steam Frame, hold the Steam button on the controller, and press the trigger. You should hear a camera click sound effect and a notification (if enabled).
+
+[*]Locate the screenshot by invoking the dashboard and select the Media tab from the left navigation menu, click the screenshot you wish to share and press "A" -> Share -> Share on Steam -> Upload. This will upload the screenshot to Steam Cloud. From there you can grab it from Steam under View -> Recordings & Screenshots on the device you're using to correspond with us, and attach it to the ticket.
+
+[/olist]
+
+[h4]Screenshots from Steam Machine[/h4]
+
+[list]
+
+[*]Steam Controller: Steam Button + Right Bumper
+
+[*]PlayStation gamepad: PS button + R1
+
+[*]Xbox gamepad: Xbox guide button + Right Bumper
+[/list]
+
+[h4]Sending your screenshot to Steam Support[/h4]
+
+[olist]
+
+[*]View your open help request by clicking on the unique link that Steam emailed you (or use [url=https://help.steampowered.com]https://help.steampowered.com[/url] to narrow down to your issue and create a new help request) [/*]
+[*]At the bottom of the message form you will see "Browse for a file" or "Attach a file", click the link, or drag and drop your image on to the message area to add your image to your message. [/*]
+[*]Once it's been added, you'll see the name and size of the attachment [/*]
+
+[/olist]
+Multiple attachments may be added. Make sure to submit your message once you have finished attaching the file(s).
 [/expand]
 
 [/section]

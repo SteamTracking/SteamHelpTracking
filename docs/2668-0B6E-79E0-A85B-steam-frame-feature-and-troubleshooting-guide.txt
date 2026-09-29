@@ -262,7 +262,7 @@ For longer term storage, we recommend packing your Steam Frame back into the ori
 
 You can use a small amount of isopropyl alcohol with a dry cloth to disinfect or clean outer surfaces and soft materials. Using water or other cleaning products is not recommended.
 
-Use a dry, clean microfiber cloth for cleaning lenses as necessary.
+Use a dry microfiber cloth for daily cleaning of lenses as necessary. A small amount of isopropyl alcohol applied directly to the cloth (or a lens wipe marketed for use with eyeglasses or displays) can be used to clean the lenses periodically in cases where a dry cloth is insufficient, but is not recommended for frequent use. Regardless of the method used, be careful to use light pressure to avoid damaging the lens assemblies.
 
 [h4]Disassembly and Modification[/h4]
 
