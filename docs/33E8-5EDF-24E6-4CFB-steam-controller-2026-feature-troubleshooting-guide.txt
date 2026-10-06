@@ -100,9 +100,13 @@ To switch from one wireless connection mode to another, start with the Controlle
 
 [list]
 
-[*]To[b] start[/b] the Controller in Bluetooth mode, press and hold B + R1 + Steam until you hear a chime and the LED turns blue.
+[*]To[b] start[/b] the Controller in Bluetooth mode(right slot), press and hold B + R1 + Steam until you hear a chime and the LED turns blue.
 
-[*]To[b] pair[/b] the Controller in Bluetooth mode, make sure your Controller is powered off, then press and hold B + R1 + Steam. The Controller will chime and power on, but keep holding this chord until the second chime and you see the LED rapidly blink with double blue pulses to indicate it is ready to pair.
+[*]To[b] start[/b] the Controller in Bluetooth mode(left slot), press and hold B + L1 + Steam until you hear a chime and the LED turns blue.
+
+[*]To[b] pair[/b] the Controller to the right slot in Bluetooth mode, make sure your Controller is powered off, then press and hold B + R1 + Steam. The Controller will chime and power on, but keep holding this chord until the second chime and you see the LED rapidly blink with double blue pulses to indicate it is ready to pair.
+
+[*]To[b] pair[/b] the Controller to the left slot in Bluetooth mode, make sure your Controller is powered off, then press and hold B + L1 + Steam. The Controller will chime and power on, but keep holding this chord until the second chime and you see the LED rapidly blink with double blue pulses to indicate it is ready to pair.
 
 [*]Navigate to your device's Bluetooth settings and find the Steam Controller. It will identify itself as 'Steam Ctrl (BT) FXA...'
 
@@ -132,6 +136,8 @@ To use the wired USB-C mode:
 The Steam Controller should be paired to the Puck it is packaged with by default and work automatically with the associated wireless connection as long as the Puck is plugged into a compatible device running Steam.
 
 To manually pair your Steam Controller to a Puck, simply plug the Puck into your PC via USB-C, making sure Steam is open and no games are running, and then place the Steam Controller on the Puck. You should see a Steam prompt to complete the pairing.
+
+[section id=sigstrength][/modes]
 
 [h4]Puck connectivity issues[/h4]
 
@@ -211,7 +217,6 @@ The LED above the Steam button communicates information about the current state 
 [/tr]
 
 [/table]
-
 [h1]Using Steam Controller with Non-Steam Games[/h1]
 Steam must be running on your PC for the Steam Controller to function properly. Everything should work as intended if you have purchased and launched your game directly through Steam, but in many cases you will also be able to use the Controller with non-Steam games that run independently.
 
@@ -287,6 +292,12 @@ Valve is not responsible for replacing or servicing screws, connectors, or other
 If you have a problem with your controller that you believe may require direct service, please start by contacting Steam Support.
 
 [hr][/hr]
+
+[h2]Other References[/h2]
+
+[url=https://help.steampowered.com/en/faqs/view/6AB9-3A71-ED45-3FB3]LED Reference Images and GIFs[/url]
+[url=https://help.steampowered.com/en/faqs/view/345E-F55E-E96C-E0CF]Steam Controller Boot Chords/modes[/url]
+[url=https://help.steampowered.com/en/faqs/view/3555-F82E-22CA-7157]Steam Controller Connection Checklist[/url]
 
 [section id=contact][h1]Contact Steam Support[/h1]
 [/section]

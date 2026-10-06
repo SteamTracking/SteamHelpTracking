@@ -335,3 +335,9 @@ R4 + R5 + L4 + L5 + Steam. This makes it so your controller won't accidentally t
 [/tr]
 
 [/table]
+
+[h2]Other References[/h2]
+
+[url=https://help.steampowered.com/en/faqs/view/33E8-5EDF-24E6-4CFB]Full Trouble shooting guide[/url]
+[url=https://help.steampowered.com/en/faqs/view/345E-F55E-E96C-E0CF]Steam Controller Boot Chords/modes[/url]
+[url=https://help.steampowered.com/en/faqs/view/3555-F82E-22CA-7157]Steam Controller Connection Checklist[/url]
