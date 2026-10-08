@@ -1,0 +1,96 @@
+[h1]Reference - Steam Controller Connection Checklist[/h1]
+
+This page contains some basic debug steps for your Steam Controller wireless link. The page contains information regarding the most common and identifiable issues we have seen users experience when using their devices.
+
+[list]
+
+[*][url=#modes]Controller and Host are not using the same wireless mode/slots[/url]
+
+[*][url=#pairing]Incorrect pairing information[/url]
+
+[*][url=#lowsig]Too Far away or puck position is not good[/url]
+
+[*][url=#noise]Too much noise from near by devices[/url]
+
+[*][url=#usb]USB hub does not have enough resources[/url]
+
+[/list]
+
+[section id=modes]
+[/section]
+
+[h2]Settings Mismatch Between Controller and Puck[/h2]
+
+The Steam Controller has 2 wireless modes and 2 slots. This means there are 4 different options for you to use your controller. It is possible to inadvertently switch into one of these modes when booting the controller.
+
+[h3]Wrong Connection Type[/h3]
+
+The Steam Controller supports Bluetooth and our proprietary link. The LED on the Steam Controller changes color to blue, if you are using Bluetooth and white if you are using low latency protocol.
+The page below can be used to better identify these states.
+[url=https://help.steampowered.com/en/faqs/view/6AB9-3A71-ED45-3FB3]LED reference page[/url]
+If you are in the incorrect wireless mode, the boot button combination (chords) are on the page below.
+[url=https://steamcommunity.com/faqs/steam-help/view/345E-F55E-E96C-E0CF]Mode switching cheat sheet.[/url]
+
+[h3]Incorrect Slot[/h3]
+
+The controller has 2 pairing slots (left and right) and they can be switched at boot time if you hold down the correct button combination.
+During booth the Steam Controller plays slightly different boot chimes depending upon the slot selected. The pitch of the final note on the left slot is higher than the pitch on the final tone for the right slot.
+To switch slots the page below has all the relevant chords.
+[url=https://steamcommunity.com/faqs/steam-help/view/345E-F55E-E96C-E0CF]Mode switching cheat sheet.[/url]
+
+[section id=pairing]
+[/section]
+
+[h2]Incorrect Pairing Information[/h2]
+
+The paring information may have been lost on either the host or controller side. Pairing information can be deleted in Steam settings or in the host OS for Bluetooth. If several steam controllers are paired to a steam controller puck, eventually old devices get deleted.
+Attempting to re-pair the controller can resolve this issue.
+[url=https://help.steampowered.com/en/faqs/view/33E8-5EDF-24E6-4CFB#pairing]Pairing guide.[/url]
+
+[section id=usb]
+[/section]
+
+[h2]USB Issues[/h2]
+
+If the Steam Controller connects to the Puck and the Puck cannot communicate with the host PC, the Steam Controller will play a different boot sound. If you hear an abnormal boot sound and see a solid white light on the controller. The radio link is fine, but the Steam Controller Puck cannot talk to host PC.
+
+[h3]Incorrect Cable[/h3]
+
+Some cables do not have data lines and are intended for charging only. If you are using a 3rd party cable try a different cable or the cable that came with your Steam Controller if possible.
+
+[h3]USB resource contention issue[/h3]
+
+For some users, the Steam Controller Puck does not have enough resources to connect to your PC. This is common if you put a USB headset (or audio card), or some webcams, on the same USB hub as the Steam Controller Puck. If this happens your puck will not show up in Steam Settings>Controller. The easiest way to work through this is by trying different USB ports on you device.
+More information is available [url=https://steamcommunity.com/faqs/steam-help/view/0EAC-1316-D74B-6E04]here[/url].
+
+[section id=lowsig]
+[/section]
+
+[h2]Checking Signal Strength[/h2]
+
+If you can get a connection but it is not reliable. Steam has a display for the signal strength in Steam settings -> Controller -> Click "Details" next to your connected Steam Controller Puck -> Scroll down to the Hardware section to find the Signal Strength indicator.
+[img]{STEAM_CLAN_IMAGE}/39983882/778b0e899d0190eb571fbdaea9a88943cc373c8e.png[/img]
+We have given some quality information for various types of signal strength. Moving your puck around in your environment to have clear line of sight will give you the best signal strength. Generally the performance of the Steam Controller does not change until the signal gets close to the noise in your environment, as it is not practical for us to predict the noise in your environment, these are a "typical" range, some users will see performance that is fine when the signal is weaker than others. This is informational item for helping your place your puck in the best place for your environment.
+
+[section id=noise]
+[/section]
+
+[h2]Noise Issues[/h2]
+
+Noise is a big problem for wireless systems. If the noise is too loud, there is nothing that can be done in the radio to hear the signal. For this we can only give you a list of common noise sources that have caused issues for us in the past.
+
+[list]
+
+[*]USB 3 devices
+
+[*]High speed video devices (displays, graphics cards, display cables)
+
+[*]Power supplies (some computer power supplies can cause issues)
+
+[/list]
+
+[h2]Other References[/h2]
+
+[url=https://help.steampowered.com/en/faqs/view/33E8-5EDF-24E6-4CFB]Full Trouble shooting guide[/url]
+[url=https://help.steampowered.com/en/faqs/view/6AB9-3A71-ED45-3FB3]LED Reference Images and GIFs[/url]
+[url=https://help.steampowered.com/en/faqs/view/345E-F55E-E96C-E0CF]Steam Controller Boot Chords/modes[/url]

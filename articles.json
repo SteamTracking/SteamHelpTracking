@@ -929,6 +929,12 @@
         "version": 18,
         "timestamp": "2026-10-05 23:08:22"
     },
+    "3773723325775012047": {
+        "title": "Reference- Steam Controller Boot Chords/modes",
+        "url_code": "345E-F55E-E96C-E0CF",
+        "version": 2,
+        "timestamp": "2026-10-06 21:50:46"
+    },
     "3774805164909483879": {
         "title": "Understanding the In-Game Overlay Performance Monitor",
         "url_code": "3462-CD4C-36BD-5767",
@@ -958,6 +964,12 @@
         "url_code": "3548-A9F4-02A3-940F",
         "version": 2,
         "timestamp": "2026-09-18 18:18:52"
+    },
+    "3843250734066463063": {
+        "title": "Reference - Steam Controller Connection Checklist",
+        "url_code": "3555-F82E-22CA-7157",
+        "version": 3,
+        "timestamp": "2026-10-07 22:38:59"
     },
     "3843832090999931729": {
         "title": "Available disk space decreases every time a game is run",
@@ -2066,8 +2078,8 @@
     "7585473236700824119": {
         "title": "Reference - Steam Machine LED",
         "url_code": "6945-03B8-1EC9-0237",
-        "version": 4,
-        "timestamp": "2026-07-15 21:42:49"
+        "version": 5,
+        "timestamp": "2026-10-07 17:35:06"
     },
     "7586403624451082884": {
         "title": "Find Downloadable Content (DLC) for My Games",

@@ -1,0 +1,148 @@
+[h1]Reference- Steam Controller Boot Chords/modes[/h1]
+
+The Steam Controller has several operating modes that i can be placed into. Some of them require pressing certain buttons when you either turn on or off the controller. This page helps you find the correct chords (button combos) to enter these modes.
+
+[table noborder=1]
+
+[tr]
+
+[td][b]Name[/b]
+[/td]
+[td][b]Initial State[/b]
+[/td]
+[td][b]Buttons[/b]
+[/td]
+[td][b]Press Length[/b]
+[/td]
+[td][b]Results[/b]
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Switch To Steam Controller Puck (Right Slot)
+[/td]
+[td]Off
+[/td]
+[td]Steam+A+R1
+[/td]
+[td]2s
+[/td]
+[td] Steam Controller will switch to the Steam Controller Wireless protocol using the bonding information in the Right slot. This is the default configuration for the controller. After switching you can pair the controller to a Steam Machine or Puck. To pair either plug the Steam Controller into the PC using USB or set the Steam Controller on the Puck while the puck is plugged into the PC. Steam will guide you through the pairing process.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Switch To Steam Controller Puck (Left Slot)
+[/td]
+[td]Off
+[/td]
+[td]Steam+A+L1
+[/td]
+[td]2s
+[/td]
+[td]Steam Controller will switch to the Steam Controller Wireless protocol using the bonding information in the Left slot.  After switching you can pair the controller to a Steam Machine or Puck. To pair either plug the Steam Controller into the PC using USB or set the Steam Controller on the Puck while the Puck is plugged into the PC. Steam will guide you through the pairing process.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Backpack Mode
+[/td]
+[td]On
+[/td]
+[td]Steam+L4+L5+R4+R5
+[/td]
+[td]5s
+[/td]
+[td]Steam Controller will only boot if the users turns on the controller with the chord, or plugs in via USB
+[/td]
+
+[/tr]
+
+[tr]
+
+[td] Exit Backpack Mode
+[/td]
+[td]Off
+[/td]
+[td]Steam+L4+L5+R4+R5
+[/td]
+[td]5s
+[/td]
+[td]Turn on the controller, if it is in backpack mode, it will exit backpack mode.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Switch To Bluetooth Mode (Right Slot)
+[/td]
+[td]Off
+[/td]
+[td]Steam+B+R1
+[/td]
+[td]2s
+[/td]
+[td]Steam Controller will turn on and attempt to connect with the pairing information from the right slot. If no pairing information is available it will transition to pairing mode.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Switch To Bluetooth Mode (Left Slot)
+[/td]
+[td]Off
+[/td]
+[td]Steam+B+L1
+[/td]
+[td]2s
+[/td]
+[td]Steam Controller will turn on and attempt to connect with the pairing information from the left slot. If no pairing information is available it will transition to pairing mode.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Enter Pairing Mode for Bluetooth(Right Slot)
+[/td]
+[td]Off
+[/td]
+[td]Steam+B+R1
+[/td]
+[td]5s
+[/td]
+[td]Steam Controller will turn on attempt to pair to a Bluetooth host. When the pairing is complete the paring data will be written to the right Bluetooth controller slot
+[/td]
+
+[/tr]
+
+[tr]
+
+[td]Enter Pairing Mode for Bluetooth(Left Slot)
+[/td]
+[td]Off
+[/td]
+[td]Steam+B+L1
+[/td]
+[td]5s
+[/td]
+[td]Steam Controller will turn on attempt to pair to a Bluetooth host. When the pairing is complete the paring data will be written to the left Bluetooth controller slot
+[/td]
+
+[/tr]
+
+[/table]
+
+[h2]Other References[/h2]
+
+[url=https://help.steampowered.com/en/faqs/view/33E8-5EDF-24E6-4CFB]Full Trouble shooting guide[/url]
+[url=https://help.steampowered.com/en/faqs/view/6AB9-3A71-ED45-3FB3]LED Reference Images and GIFs[/url]
+[url=https://help.steampowered.com/en/faqs/view/3555-F82E-22CA-7157]Steam Controller Connection Checklist[/url]
