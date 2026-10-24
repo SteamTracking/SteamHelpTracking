@@ -1,0 +1,169 @@
+[h1]Steam Frame - Wireless Adapter & Multi-Link Troubleshooting Guide[/h1]
+
+[img]{STEAM_CLAN_IMAGE}/39983882/992f69d6a30a58ad25a0f5d0842fc64c6cdee0eb.png[/img]
+
+[h1]How it Works[/h1]
+
+The included plug-and-play 6GHz wireless adapter provides a dedicated link for both VR and non-VR streaming. It creates a direct, low-latency connection between your headset and PC. While the adapter can be used on its own for streaming, it is designed to work alongside your local network for the best experience. The adapter is designed to work together with local network access points to provide a great streaming experience via Valve's Multi-Link technology. Multi-Link can use multiple connections at the same time and automatically balance traffic between them for the best streaming performance.
+
+Multi-Link is currently only utilized for streaming VR games from a host PC.
+
+2D streaming will default to the adapter connection if one is established, or your home network otherwise. Additional information on 2D streaming can be found at [url=https://store.steampowered.com/remoteplay]Remote Play[/url].
+
+[h1]Basic Setup Information[/h1]
+
+Note: The wireless adapter is not yet fully supported on Linux.
+
+[h4]System Requirements[/h4]
+
+[expand type=title title="Minimum Requirements"]
+* NVIDIA GeForce GTX 1070 or better.
+* AMD Radeon RX 570 or better. EXCEPT no support for RX 6400 or 6500 XT (No hardware encode)
+* Intel Arc is not supported at this time.
+* VR requires the host to have an APU or dedicated GPU.
+
+[/expand]
+
+[expand type=title title="Recommended"]
+* NVIDIA GeForce 2070 or better.
+* AMD Radeon RX 6700 series or better.
+
+[/expand]
+
+[h4]Getting Started[/h4]
+
+Note: A reference for the various LED states that communicate wireless adapter status is available [url=https://help.steampowered.com/faqs/view/4F01-E85C-4977-EA0E]here[/url].
+
+[list]
+
+[*]Connect your headset and PC to the same network. The headset will connect via Wi-Fi, but we recommend using a wired Ethernet connection between your router and host PC if possible.
+
+[*]Plug the wireless adapter into an available USB port on your host PC that allows for line-of-sight between the adapter and headset.
+
+[*]You will be prompted to pair on the PC if your HMD is awake and logged in to the same account. You can also initiate pairing under Settings / Remote Play. The settings for the wireless adapter are at the very bottom of that page.
+
+[*]When you initiate pairing, you may see a PIN prompt if this is the first time you have streamed.
+
+[*]The first connection can take up to 90 seconds while the headset and wireless adapter determine the best connection for your network environment.
+
+[*]When paired and ready, the wireless adapter should switch from blinking white to solid white.
+
+[*]To stream a game from your library, navigate to it in your headset and select the "Stream from <host PC name>" option.
+
+[*]While streaming, Multi-Link should actively manage utilization of all available connections to deliver the best experience.
+
+[/list]
+
+[h1]Troubleshooting[/h1]
+
+Use the checklists below to rule out common causes of various issues before contacting Steam Support.
+
+[expand type=title title="Adapter and Steam Frame Checklist"]
+
+[list]
+
+[*]The wireless adapter performs best when it has a clear line of sight to the headset and is within ~20 feet of your play space.
+
+[*]Plug the wireless adapter into a USB port on your PC that can get line of sight. If there are issues pairing, try a port on the back of your PC or a different bank of ports.
+
+[*]Try re-pairing the wireless adapter using the UI in the headset under Remote Play → Wireless Streaming Adapter (Steam Frame), not under "Computers and Devices."
+
+[*]Select a different 6GHz channel in the headset under Remote Play → Wireless Streaming Adapter (Steam Frame).
+
+[*]Remove any non-critical USB devices and start with just the essentials, like a mouse, keyboard, and your wireless adapter. Plug the wireless adapter directly into your PC rather than a hub, and confirm that it is recognized by Windows.
+
+[/list]
+
+[/expand]
+
+[expand type=title title="Local Network Checklist"]
+
+[list]
+
+[*]Ensure your computer is connected to the same network as your Steam Frame. Your headset should be connected to an existing Wi-Fi network and have internet access.
+
+[*]Use your home network on 5GHz instead of 2.4GHz. If you are connected to your home network on 5GHz, your wireless adapter will select 6GHz operation. If you are connected to your home network on 6GHz, the wireless adapter will select 5GHz. Wireless adapter operation on 6GHz is recommended.
+
+[*]Use a wired connection between your PC and home router. Gigabit Ethernet is strongly recommended.
+
+[*]Ensure Remote Play is enabled in Steam Settings on your host PC.
+
+[*]Set your computer's network to "Private" instead of "Public." NOTE: Sometimes anti-virus software or other applications will change this - in some cases repeatedly and without notice.
+
+[*]Disable all VPNs before streaming.
+
+[*]Disable 802.11R mesh features if using a mesh network.
+
+[*]Try temporarily disabling your firewall to identify whether it is causing problems.
+
+[*]Avoid connecting to a "guest" wireless network. For instance, the "xfinitywifi" SSID of your router. Only connecting to the Wi-Fi SSID associated with your LAN will work. On some routers, there may be a wireless "client isolation" setting that should be disabled.
+
+[*]You can also check [url=https://help.steampowered.com/faqs/view/3E3D-BE6B-787D-A5D2]network recommendations for Steam Link[/url] for additional information, including required ports for streaming features.
+
+[*]Mesh network features are not directly supported. Try disabling mesh features in your router, as sometimes they interfere with the streaming solution. Also, "bind" your headset to the AP you intend to use in the mesh network's admin panel or companion application. This process will vary depending on your specific network.
+
+[*]If using a mesh network is your only option, please be aware that you may encounter issues that we aren't able to help you resolve.
+
+[/list]
+
+[/expand]
+
+[expand type=title title="Host PC Checklist"]
+
+[list]
+
+[*]Use up-to-date video card drivers. The minimum driver version for NVIDIA is 581.57.
+
+[*]Opt into the relevant software betas to ensure you have all available updates.
+
+[list]
+
+[*]For Steam Frame - Steam Settings > System > Beta Participation > switch 'System Update Channel' to 'Beta' > apply software updates and restart.
+
+[*]For SteamVR (on host PC) - right-click application in Library, then select Properties > Game Versions & Betas > Beta (SteamVR Beta Update), then wait for the update to install and restart the application.
+
+[*]For Steam Client (on host PC) - see the instructions available [url=https://help.steampowered.com/en/faqs/view/276C-85A0-C531-AFA3]here[/url].
+
+[/list]
+
+[*]There are several applications that can cause conflicts or other issues. Try disabling them to identify whether one is contributing to your problem:
+
+[list]
+
+[*]Norton Internet Security (and other Anti-Virus software)
+
+[*]Lenovo Network Booster
+
+[*]AMD ReLive for VR Redirect
+
+[*]AMD Instant Replay features
+
+[*]OBS (if using hardware encoding)
+
+[/list]
+
+[/list]
+
+[/expand]
+
+[h1]Still need help?[/h1]
+
+If beta participation and the troubleshooting above haven't helped resolve your issue, it's possible there is another issue. There are a lot of factors involved in the streaming features for Steam Frame. Although our ability to assist with issues that have a local cause will be very limited, we may be able to help you identify where the problem is and provide a fix if it's on our end. To provide what we need to assist, you can do the following:
+
+[list]
+
+[*]Attempt to run a streaming session and reproduce the issue you need help with.
+
+[*]Submit system reports from your Steam Frame and your desktop Steam Client after that session.
+
+[list]
+
+[*]For Steam Frame, go to Steam Settings > System > scroll down to System Report > Create Report > click through the submission dialog until you get a confirmation the upload was successful. It may take a few moments for the report to be prepared and sent.
+
+[*]For Steam Client, go to the application window on your PC and select Help > System Report, then go through the submission dialog until you see an upload confirmation. It may take a few moments for the report to be prepared and sent. Note that the information displayed when starting this process is only a header and doesn't reflect the log information that will be transmitted.
+
+[/list]
+
+[*][url=https://help.steampowered.com/en/wizard/HelpWithSteamFrame]Submit a help request[/url] and tell us about what you're experiencing. If you were directed here from a help request that's already in progress, update us there to let us know you've completed this troubleshooting and submitted your system information.
+
+[/list]

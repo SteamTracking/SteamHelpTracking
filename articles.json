@@ -668,8 +668,8 @@
     "2840792390513569699": {
         "title": "Steam Client Beta",
         "url_code": "276C-85A0-C531-AFA3",
-        "version": 10,
-        "timestamp": "2024-03-07 18:57:05"
+        "version": 11,
+        "timestamp": "2026-10-23 20:41:18"
     },
     "2859480059376889989": {
         "title": "CS:GO - Operation Riptide",
@@ -1582,6 +1582,12 @@
         "url_code": "53FC-FF49-3C78-D019",
         "version": 4,
         "timestamp": "2021-08-11 21:44:38"
+    },
+    "6055547633335150860": {
+        "title": "Steam Frame - Wireless Adapter & Multi-Link Troubleshooting Guide",
+        "url_code": "5409-A07D-2566-290C",
+        "version": 1,
+        "timestamp": "2026-10-23 23:11:25"
     },
     "6057563872459458384": {
         "title": "DirectX and Pixel Shader Requirements for Games on Steam",
