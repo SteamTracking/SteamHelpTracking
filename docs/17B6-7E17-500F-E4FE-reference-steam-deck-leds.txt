@@ -1,0 +1,155 @@
+[h1]Reference - Steam Deck LEDs[/h1]
+
+This page contains the references for Steam Deck LED states and their meaning. This is broken into 2 sections, OLED and LCD, as the LED lighting states are different due to the RGBW LED on OLED being able to be more expressive.
+
+[h2]OLED Light Patterns[/h2]
+
+[table  noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED Pattern[/b]
+[/td]
+[td][b]Meaning[/b]
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/33672f85ba7c08fdb423a6873d10eab18ea26306.gif[/img]
+[/td]
+[td]White Breathing
+
+Steamdeck booting
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/77dd45b88019f954ed8e5bf2526347664646da57.png[/img]
+[/td]
+[td]Solid Green
+
+Fully Charged.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/7a1b03bb760a9077ecbc2419322fae2a32dedfb9.png[/img]
+[/td]
+[td]Solid White
+
+Charging rapidly
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/e68110064f2730e9b4dc775b70a1887351fe10b0.png[/img]
+[/td]
+[td]Solid Orange
+
+Charging Slowly
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/d625b801931c8db4f77fadf6fd2139bef04cecf9.gif[/img]
+[/td]
+[td]Blue Breathing
+
+Bios Updating
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/3a3fd39344d1c8e675c9522ffbfe335f610ddb0c.gif[/img]
+[/td]
+[td]Blue Flashing 2Hz
+
+Transitioning to battery storage mode
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/a822df4caa23571097c5cf926be9c107223c2ded.gif[/img]
+[/td]
+[td]Quick Blink red
+
+Battery too low to boot
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/c5cd131d44bf3d049ef9b35ca9a97e5fc5a79c93.png[/img]
+[/td]
+[td]Solid Red
+
+APU over temp.
+[/td]
+
+[/tr]
+
+[/table]
+Note, The button color is not representative of OLED. The images are illustrative renderings.
+
+[h2]LCD Light Patterns[/h2]
+
+[table  noborder=1 equalcells=1]
+
+[tr]
+
+[td][b]LED Pattern[/b]
+[/td]
+[td][b]Meaning[/b]
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/33672f85ba7c08fdb423a6873d10eab18ea26306.gif[/img]
+[/td]
+[td]LED Breathing
+
+Steam Deck is Boothing
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/7a1b03bb760a9077ecbc2419322fae2a32dedfb9.png[/img]
+[/td]
+[td]Solid White
+
+Steam Deck is Charging.
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/5ea4d65afbb2321ebcf2ec80567dd9af7204a74b.gif[/img]
+[/td]
+[td]2Hz Slow Blink
+
+Steam Deck is either transitioning to Battery Storage mode, or CMOS is being reset.
+[/td]
+
+[/tr]
+
+[/table]
