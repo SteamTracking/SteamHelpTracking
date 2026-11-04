@@ -1,0 +1,50 @@
+[h1]Age Assurance in Australia[/h1]
+
+[section style=note]Note: This information is for Australian Users only.
+[/section]
+
+[h1]Introduction[/h1]
+For Australian users, the Age-Restricted Material Online Safety Codes require Steam to verify a user is over 18 years of age to view store and community pages for games that are rated R18+.
+
+Each Steam account will only need to be age verified once.
+
+[h1]Ways To Verify Your Age[/h1]
+
+[h3]Option 1 - Automatic Age Verification[/h3]
+
+Steam will automatically consider your account age verified if it is at least nine years old and has had a consistent email address or billing information.
+
+[h3]Option 2 - Add a Credit Card to Your Steam Account[/h3]
+
+You can manually verify you are over the age of 18 by adding a credit card to your Steam account. You are not required to make a purchase using this payment method.
+
+Please note that a debit card is insufficient for age verification purposes under the Age-Restricted Material Online Safety Codes.
+
+[button=https://checkout.steampowered.com/checkout/?purchasetype=updatebillinginfo]Add a credit card to this account[/button]
+
+[h3]Option 3 - Future Verification Methods[/h3]
+
+We understand that not all Australians will be able to verify their age using our existing options. We are looking into other ways to comply with Australia’s age verification rules while also limiting the data we collect and store from users.
+
+[h1]FAQ[/h1]
+
+[h4]Why is this necessary?[/h4]
+
+In Australia, the eSafety Commissioner is the independent regulator for online safety. The [url=https://www.esafety.gov.au/industry/codes/faq-access-to-online-porn-and-other-adult-content]Age-Restricted Material Online Safety Codes[/url] require age verification for access to games that are rated R18+.
+
+[h4]Will I lose access to my account or to any of the games I already have?[/h4]
+
+No. You can continue to play any game that you have purchased.
+[h4=othermethods]Why do you not offer other age assurance methods?[/h4]
+
+Steam intentionally limits the sensitive data we collect and store about users and strives to use the least intrusive methods possible.
+
+We believe our customers value their privacy. We don’t sell ads on Steam. We don’t sell our users’ data. We don’t want to start collecting additional sensitive information from our users.
+
+We are pursuing other verification methods that align with Steam’s goal to limit the collection and sharing of customer information.
+
+You can read more about our privacy practices in our [url=https://store.steampowered.com/privacy_agreement/]privacy policy[/url].
+
+[h4]Questions?[/h4]
+
+If you have questions or difficulty adding a credit card to your account, please open a [url=https://help.steampowered.com/en/]Steam Support ticket[/url].
