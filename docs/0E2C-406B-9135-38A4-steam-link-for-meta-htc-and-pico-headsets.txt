@@ -165,6 +165,10 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]Your computer’s network is set to "Private" instead of "Public" NOTE: Sometimes anti-virus software or other applications will change this without notice.
 
+[*]If using Norton Internet Security, be sure the connection type in Norton is set to "Private" - this is separate from the Windows network connection type.
+
+[*]If using Avast Free Antivirus, you will need to go under "Protection", select "Networks", select the network, it may be listed as "Unidentified Network" then select Show Settings and set it to "I trust this network"
+
 [*]You’ve disabled all VPNs before streaming
 
 [*]Try temporarily disabling your firewall to identify whether that is causing problems
