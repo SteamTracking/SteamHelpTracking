@@ -90,6 +90,14 @@ Use the checklists below to rule out common causes of various issues before cont
 
 [*]Set your computer's network to "Private" instead of "Public." NOTE: Sometimes anti-virus software or other applications will change this - in some cases repeatedly and without notice.
 
+[list]
+
+[*]If using Norton Internet Security, be sure the connection type in Norton is set to "Private" - this is separate from the Windows network connection type.
+
+[*]If using Avast Free Antivirus, you will need to go under "Protection", select "Networks", select the network, it may be listed as "Unidentified Network" then select Show Settings and set it to "I trust this network"
+
+[/list]
+
 [*]Disable all VPNs before streaming.
 
 [*]Disable 802.11R mesh features if using a mesh network.
