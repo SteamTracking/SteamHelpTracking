@@ -7,17 +7,149 @@
 
 [tr]
 
+[td][img]https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/fremont_line.png[/img][/td]
+[td]   [/td]
+[td]
+
+[h4]Model 1016 - Steam Machine[/h4]
+
+CE Declaration of Conformity
+
+[list]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1016_EU_Declaration_of_Conformity_111926.pdf]English[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1016_EU_Declaration_of_Conformity_112026_french.pdf]French[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1016_EU_Declaration_of_Conformity_112026_german.pdf]German[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1016_EU_Declaration_of_Conformity_112026_italian.pdf]Italian[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1016_EU_Declaration_of_Conformity_112026_spanish.pdf]Spanish[/url]
+
+[/list]
+
+UK Declaration of Conformity
+
+[list]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1016_UK_Declaration_of_Conformity_111926.pdf]English[/url]
+
+[/list]
+
+[/td]
+
+[/tr]
+
+[tr]
+
 [td][img]{STEAM_CLAN_IMAGE}/39983882/b83f67c727bdd9cbe234a6dd383621e0ff2af940.png[/img][/td]
 [td]   [/td]
 [td]
 
 [h4]Model 1015 - Steam Frame[/h4]
 
+CE Declaration of Conformity
+
+[list]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1015_EU_Declaration_of_Conformity_111926.pdf]English[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1015_EU_Declaration_of_Conformity_112026_french.pdf]French[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1015_EU_Declaration_of_Conformity_112026_german.pdf]German[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1015_EU_Declaration_of_Conformity_112026_italian.pdf]Italian[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1015_EU_Declaration_of_Conformity_112026_spanish.pdf]Spanish[/url]
+
+[/list]
+
+UK Declaration of Conformity
+
+[list]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1015_UK_Declaration_of_Conformity_111926.pdf]English[/url]
+
+[/list]
+
 RoHS
 
 [list]
 
 [*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1015_1017_1018_1019_RoHS_table.pdf]Traditional Chinese[/url]
+
+[/list]
+
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/RoyR.png[/img][/td]
+[td]   [/td]
+[td]
+
+[h4]Model 1014 - Steam Frame Controller (right)[/h4]
+
+CE Declaration of Conformity
+
+[list]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1014_EU_Declaration_of_Conformity_111926.pdf]English[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1014_EU_Declaration_of_Conformity_112026_french.pdf]French[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1014_EU_Declaration_of_Conformity_112026_german.pdf]German[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1014_EU_Declaration_of_Conformity_112026_italian.pdf]Italian[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1014_EU_Declaration_of_Conformity_112026_spanish.pdf]Spanish[/url]
+
+[/list]
+
+UK Declaration of Conformity
+
+[list]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1014_UK_Declaration_of_Conformity_111926.pdf]English[/url]
+
+[/list]
+
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/RoyL.png[/img][/td]
+[td]   [/td]
+[td]
+
+[h4]Model 1013 - Steam Frame Controller (left)[/h4]
+
+CE Declaration of Conformity
+
+[list]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1013_EU_Declaration_of_Conformity_111926.pdf]English[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1013_EU_Declaration_of_Conformity_112026_french.pdf]French[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1013_EU_Declaration_of_Conformity_112026_german.pdf]German[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1013_EU_Declaration_of_Conformity_112026_italian.pdf]Italian[/url]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1013_EU_Declaration_of_Conformity_112026_spanish.pdf]Spanish[/url]
+
+[/list]
+
+UK Declaration of Conformity
+
+[list]
+
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1013_UK_Declaration_of_Conformity_111926.pdf]English[/url]
 
 [/list]
 
@@ -37,15 +169,15 @@ CE Declaration of Conformity
 
 [list]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_signed.pdf]English[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_111926.pdf]English[/url]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_052126_french.pdf]French[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_112026_french.pdf]French[/url]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_052126_german.pdf]German[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_112026_german_1.pdf]German[/url]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_052126_italian.pdf]Italian[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_112026_italian.pdf]Italian[/url]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_052126_spanish.pdf]Spanish[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1012_EU_Declaration_of_Conformity_112026_spanish.pdf]Spanish[/url]
 
 [/list]
 
@@ -53,7 +185,7 @@ UK Declaration of Conformity
 
 [list]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1012_UK_Declaration_of_Conformity_signed.pdf]English[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1012_UK_Declaration_of_Conformity_111926.pdf]English[/url]
 
 [/list]
 
@@ -73,15 +205,15 @@ CE Declaration of Conformity
 
 [list]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_signed.pdf]English[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_111926.pdf]English[/url]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_052126_french.pdf]French[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_112026_french.pdf]French[/url]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_052126_german.pdf]German[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_112026_german.pdf]German[/url]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_052126_italian.pdf]Italian[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_112026_italian.pdf]Italian[/url]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_052126_spanish.pdf]Spanish[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1011_EU_Declaration_of_Conformity_112026_spanish.pdf]Spanish[/url]
 
 [/list]
 
@@ -89,7 +221,7 @@ UK Declaration of Conformity
 
 [list]
 
-[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1011_UK_Declaration_of_Conformity_signed.pdf]English[/url]
+[*][url=https://shared.fastly.steamstatic.com/community_assets/images/steamworks_docs/english/1011_UK_Declaration_of_Conformity_111926.pdf]English[/url]
 
 [/list]
 
@@ -416,4 +548,4 @@ UK Declaration of Conformity
 
 [h5]European contact for regulatory topics only:[/h5]
 
-GPSR Representative B.V., De Vinderhoven 130, 3124 BV, Schiedam, The Netherlands
+GPSR Representative B.V., De Vlinderhoven 130, 3124 BV, Schiedam, The Netherlands
