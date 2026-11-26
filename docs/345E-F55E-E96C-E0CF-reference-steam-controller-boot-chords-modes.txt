@@ -139,6 +139,21 @@ The Steam Controller has several operating modes that i can be placed into. Some
 
 [/tr]
 
+[tr]
+
+[td]Force Shutdown
+[/td]
+[td]On
+[/td]
+[td]Steam + QAM
+[/td]
+[td]10s
+[/td]
+[td]You may need to do this if your Controller is stuck in a powered on state and unresponsive to usual shutdown commands or chords.
+[/td]
+
+[/tr]
+
 [/table]
 
 [h2]Other References[/h2]
